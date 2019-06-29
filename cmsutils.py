@@ -1,4 +1,3 @@
-#test comment
 import re
 
 def readRelValFile (name, zipFile):
