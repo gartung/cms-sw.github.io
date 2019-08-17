@@ -1,0 +1,2419 @@
+{
+  "ctime": 0,
+  "data": [
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 3331469139,
+          "checksum": "adler32:d05722f8,cksum:830845256",
+          "creation_time": 1564612977.20672,
+          "id": 162501743,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/97086483-8224-6B4D-B82C-E04380559452.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 3331469139,
+          "time_create": 1564612977.20672
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 11464104128,
+          "checksum": "adler32:c003df78,cksum:4007842213",
+          "creation_time": 1564763185.86602,
+          "id": 162606126,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/4092643D-6D44-4F43-9695-68D5F0887E00.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 11464104128,
+          "time_create": 1564763185.86602
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 13125869829,
+          "checksum": "adler32:5e2d7a16,cksum:220597332",
+          "creation_time": 1564685299.92874,
+          "id": 162547255,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/F169DCD3-633A-B84D-B73E-DC861553A7E2.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 13125869829,
+          "time_create": 1564685299.92874
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 15324725293,
+          "checksum": "adler32:c00a2397,cksum:3305737703",
+          "creation_time": 1564694610.3636,
+          "id": 162553976,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/F26E387D-AC8D-AE49-BB9D-503FFF7D73E6.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 15324725293,
+          "time_create": 1564694610.3636
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16036000657,
+          "checksum": "adler32:76c260b7,cksum:3975887095",
+          "creation_time": 1564766833.75961,
+          "id": 162609153,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/D73DF056-AECE-824D-A743-D65B3D07438F.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16036000657,
+          "time_create": 1564766833.75961
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 14999875974,
+          "checksum": "adler32:775dde7e,cksum:834608755",
+          "creation_time": 1564689191.23552,
+          "id": 162550434,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/715F549A-B1F6-D941-90BE-82DF9EEA14F2.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 14999875974,
+          "time_create": 1564689191.23552
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 18190708657,
+          "checksum": "adler32:331155a2,cksum:2890247320",
+          "creation_time": 1564730233.03503,
+          "id": 162580659,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/774EA839-1714-CF4F-A8B1-E1F460E8E6A0.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 18190708657,
+          "time_create": 1564730233.03503
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 6837791190,
+          "checksum": "adler32:d97900d6,cksum:948960189",
+          "creation_time": 1564751834.05271,
+          "id": 162596908,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/4EF4E7D8-E311-DD4C-A435-AE690595FC9E.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 6837791190,
+          "time_create": 1564751834.05271
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 18279084310,
+          "checksum": "adler32:b68fbbb3,cksum:1315626454",
+          "creation_time": 1564674195.42925,
+          "id": 162538631,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/F29733E6-B4C1-8749-9706-FACF5531D987.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 18279084310,
+          "time_create": 1564674195.42925
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 3571844022,
+          "checksum": "adler32:0b9b9f5d,cksum:3993229379",
+          "creation_time": 1564609470.47512,
+          "id": 162499251,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/64FFDE7F-B2D3-104A-9A26-016380A06093.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 3571844022,
+          "time_create": 1564609470.47512
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 3267603227,
+          "checksum": "adler32:1b1557b0,cksum:2494207865",
+          "creation_time": 1564633094.7388,
+          "id": 162513415,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/1159A89E-4C3D-604B-A730-BE0EFD2BBF28.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 3267603227,
+          "time_create": 1564633094.7388
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 3026992950,
+          "checksum": "adler32:eba84ce8,cksum:619242600",
+          "creation_time": 1564629403.2448,
+          "id": 162510987,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/40EA21EF-952A-684D-A613-1C2AC0D7504F.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 3026992950,
+          "time_create": 1564629403.2448
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 20442822193,
+          "checksum": "adler32:999418a0,cksum:1442758118",
+          "creation_time": 1564759739.82351,
+          "id": 162603163,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/A7AC3179-F625-D54A-AB73-D70B7F3E90ED.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 20442822193,
+          "time_create": 1564759739.82351
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 11290963588,
+          "checksum": "adler32:227bd3da,cksum:2386536190",
+          "creation_time": 1564764810.04076,
+          "id": 162607766,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/FC55F424-A0EB-5B4F-921E-1AD564FAF523.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 11290963588,
+          "time_create": 1564764810.04076
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19502294409,
+          "checksum": "adler32:88a2a751,cksum:2695984252",
+          "creation_time": 1564674195.42925,
+          "id": 162538630,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/EE669507-DB71-844A-8989-5DE96C6F6072.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19502294409,
+          "time_create": 1564674195.42925
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 2680402057,
+          "checksum": "adler32:d2ef8262,cksum:1802066263",
+          "creation_time": 1564604115.41447,
+          "id": 162496018,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/FE8FFC40-8A0B-E34B-8EA9-EB4F85FE6EEC.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 2680402057,
+          "time_create": 1564604115.41447
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 15570294928,
+          "checksum": "adler32:af07e367,cksum:4108625507",
+          "creation_time": 1564768684.25763,
+          "id": 162610783,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/E521D1AD-DCEF-2F49-84CE-CF0A1DDBC900.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 15570294928,
+          "time_create": 1564768684.25763
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 2632446028,
+          "checksum": "adler32:1d664489,cksum:1888649619",
+          "creation_time": 1564631557.48362,
+          "id": 162512286,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/9B8A8408-2C06-C245-9275-13196AEDBEF4.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 2632446028,
+          "time_create": 1564631557.48362
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19330045699,
+          "checksum": "adler32:1bc9cfad,cksum:299317168",
+          "creation_time": 1564679715.68275,
+          "id": 162542326,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/0414F5FC-9497-2B46-AAF2-6CABF0688C98.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19330045699,
+          "time_create": 1564679715.68275
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 11972235199,
+          "checksum": "adler32:a5873f65,cksum:934096473",
+          "creation_time": 1564775697.5243,
+          "id": 162616145,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/33C809A8-2CD2-FA48-B221-7B243D24F6D2.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 11972235199,
+          "time_create": 1564775697.5243
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 18058781088,
+          "checksum": "adler32:da4f37f9,cksum:785720100",
+          "creation_time": 1564726258.87743,
+          "id": 162577886,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/8980519C-15E5-0D4F-B80D-B05A1EA71D36.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 18058781088,
+          "time_create": 1564726258.87743
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19714941339,
+          "checksum": "adler32:a01b6265,cksum:1498217594",
+          "creation_time": 1564683229.42263,
+          "id": 162545998,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/79057612-EA38-3F4D-90A5-99085D9D8D41.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19714941339,
+          "time_create": 1564683229.42263
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19468873960,
+          "checksum": "adler32:0341068f,cksum:3297723109",
+          "creation_time": 1564679715.68275,
+          "id": 162542325,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/4960A247-CAFE-4840-8646-56A8C711AEF4.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19468873960,
+          "time_create": 1564679715.68275
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 7125233267,
+          "checksum": "adler32:79116b37,cksum:2071839053",
+          "creation_time": 1564646133.47681,
+          "id": 162521456,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/66727245-B42B-6748-A205-E35FE835E64C.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 7125233267,
+          "time_create": 1564646133.47681
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 13661248217,
+          "checksum": "adler32:25f69a78,cksum:2509344517",
+          "creation_time": 1564763185.86602,
+          "id": 162606127,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/5EB8B46B-2C78-AD4E-8901-E1FD7D8B5E55.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 13661248217,
+          "time_create": 1564763185.86602
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 13167690889,
+          "checksum": "adler32:e261eec9,cksum:789795574",
+          "creation_time": 1564685299.92874,
+          "id": 162547254,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/94FAA247-3E2D-CC47-9503-402CBC560332.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 13167690889,
+          "time_create": 1564685299.92874
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 4390459321,
+          "checksum": "adler32:a166f0c2,cksum:3053887848",
+          "creation_time": 1564674195.42925,
+          "id": 162538629,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/6F1C5C9E-9B7B-7146-BB96-B29B9EC272EE.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 4390459321,
+          "time_create": 1564674195.42925
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 20209930879,
+          "checksum": "adler32:9762a37b,cksum:4061106150",
+          "creation_time": 1564741100.24014,
+          "id": 162588606,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/9197FC75-E553-7745-B2A8-A87A95630A8B.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 20209930879,
+          "time_create": 1564741100.24014
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 20528983737,
+          "checksum": "adler32:e119b484,cksum:4186249775",
+          "creation_time": 1564863628.21695,
+          "id": 162687959,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/32F54459-87B1-4444-9F07-01EC207AF668.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 20528983737,
+          "time_create": 1564863628.21695
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16746920594,
+          "checksum": "adler32:0140e98a,cksum:1736292297",
+          "creation_time": 1564805383.04432,
+          "id": 162636873,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/C27BE238-8611-6F45-B5DB-E0ACA79AD65B.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16746920594,
+          "time_create": 1564805383.04432
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 15419132903,
+          "checksum": "adler32:80ac027d,cksum:1464071087",
+          "creation_time": 1564795987.27828,
+          "id": 162630462,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/F9E3D2CB-C1FC-7244-8F2D-28D892216EA5.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 15419132903,
+          "time_create": 1564795987.27828
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 17367160230,
+          "checksum": "adler32:07b9a44e,cksum:2553339467",
+          "creation_time": 1564800060.27185,
+          "id": 162633126,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/BE198E8F-A040-F84E-B7A6-8D62410FD4F6.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 17367160230,
+          "time_create": 1564800060.27185
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 14134201574,
+          "checksum": "adler32:51530db1,cksum:2311939195",
+          "creation_time": 1564795987.27828,
+          "id": 162630460,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/39DE6B3A-3A92-9E48-B502-DA91D5DB120F.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 14134201574,
+          "time_create": 1564795987.27828
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 18707456918,
+          "checksum": "adler32:70060106,cksum:1211164674",
+          "creation_time": 1564808859.30417,
+          "id": 162639630,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/F4C2EBB6-08D4-0F40-B8AD-06150D4BD093.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 18707456918,
+          "time_create": 1564808859.30417
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 20223714943,
+          "checksum": "adler32:92057a2e,cksum:2219359922",
+          "creation_time": 1564863628.21695,
+          "id": 162687957,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/BAF0C62D-6C78-5241-8E8F-E74901BE5C9E.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 20223714943,
+          "time_create": 1564863628.21695
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19924085673,
+          "checksum": "adler32:bcc00072,cksum:274487681",
+          "creation_time": 1564863628.21695,
+          "id": 162687960,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/1B3456A3-25AC-3448-98E1-FD20CC90E97F.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19924085673,
+          "time_create": 1564863628.21695
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 15522305157,
+          "checksum": "adler32:6be93585,cksum:3626138439",
+          "creation_time": 1564795987.27828,
+          "id": 162630459,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/F128A801-B64B-4547-BC79-BED7DBB2EC9B.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 15522305157,
+          "time_create": 1564795987.27828
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19295275460,
+          "checksum": "adler32:8f8dd47d,cksum:139949475",
+          "creation_time": 1564781410.40669,
+          "id": 162620533,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/AAF9F732-85C5-2C41-ACAD-56329892313F.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19295275460,
+          "time_create": 1564781410.40669
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19481110921,
+          "checksum": "adler32:fdf4bf16,cksum:1128043117",
+          "creation_time": 1564825742.92014,
+          "id": 162651864,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/424EA0E9-C51D-A741-A7E3-50A068C44120.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19481110921,
+          "time_create": 1564825742.92014
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19041426181,
+          "checksum": "adler32:4756d5cb,cksum:470528566",
+          "creation_time": 1564832788.15958,
+          "id": 162655980,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/8003EB2C-4656-FC4B-B8E3-1786AB503998.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19041426181,
+          "time_create": 1564832788.15958
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16052677065,
+          "checksum": "adler32:eaf10c32,cksum:3810074386",
+          "creation_time": 1564785586.62359,
+          "id": 162623533,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/2CFB4F72-4045-D04D-A253-9119BCB134F9.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16052677065,
+          "time_create": 1564785586.62359
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 17149297630,
+          "checksum": "adler32:e81c7369,cksum:2267130322",
+          "creation_time": 1564803896.63973,
+          "id": 162635934,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/C3D62B9A-F25B-F340-9F22-21406A853E4A.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 17149297630,
+          "time_create": 1564803896.63973
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16128153545,
+          "checksum": "adler32:8330a0d7,cksum:3732913622",
+          "creation_time": 1564812829.91617,
+          "id": 162641475,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/51F35A4A-1887-794C-8FE3-3C1E4B054F0B.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16128153545,
+          "time_create": 1564812829.91617
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16226954742,
+          "checksum": "adler32:0d97fb46,cksum:3864588157",
+          "creation_time": 1564801776.91906,
+          "id": 162634424,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/344214F8-41AE-4240-A44A-0EFDADB25CA1.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16226954742,
+          "time_create": 1564801776.91906
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 15670387770,
+          "checksum": "adler32:475c1e6e,cksum:2508072054",
+          "creation_time": 1564792613.53626,
+          "id": 162628285,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/6C983FC9-835A-5C47-9000-D01171BB6954.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 15670387770,
+          "time_create": 1564792613.53626
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 18890518433,
+          "checksum": "adler32:5077057d,cksum:503181315",
+          "creation_time": 1564837195.3591,
+          "id": 162659173,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/6D7559ED-82E2-FB44-B1D1-BDF80AFBF31C.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 18890518433,
+          "time_create": 1564837195.3591
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19415984031,
+          "checksum": "adler32:1120ec33,cksum:3415977136",
+          "creation_time": 1564829671.98798,
+          "id": 162654423,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/5F50E5E3-19BE-5A42-96A3-CABC249612D6.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19415984031,
+          "time_create": 1564829671.98798
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19231331637,
+          "checksum": "adler32:a6e447a9,cksum:1435536274",
+          "creation_time": 1564816749.43757,
+          "id": 162644628,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/5284CBEE-A7D9-4743-9433-B9870ABC01A5.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19231331637,
+          "time_create": 1564816749.43757
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19176580009,
+          "checksum": "adler32:8d87643e,cksum:158834804",
+          "creation_time": 1564837195.3591,
+          "id": 162659174,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/FCAF588C-0E73-4648-B662-273A807D998A.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19176580009,
+          "time_create": 1564837195.3591
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 18275608722,
+          "checksum": "adler32:6cde1f11,cksum:2267769124",
+          "creation_time": 1564812829.91617,
+          "id": 162641474,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/C09C619C-B16B-BB45-B233-BFED77B44641.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 18275608722,
+          "time_create": 1564812829.91617
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 20949204600,
+          "checksum": "adler32:487cb19c,cksum:2293080334",
+          "creation_time": 1564801776.91906,
+          "id": 162634421,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/BAE66268-94B6-8C4E-B822-36ED11CA5BC7.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 20949204600,
+          "time_create": 1564801776.91906
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 20769914098,
+          "checksum": "adler32:c01bb533,cksum:1797553434",
+          "creation_time": 1564837195.3591,
+          "id": 162659172,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/91E56496-BD28-E645-B4CC-5573572819B6.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 20769914098,
+          "time_create": 1564837195.3591
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 20646315119,
+          "checksum": "adler32:3f407bab,cksum:3409285780",
+          "creation_time": 1564863628.21695,
+          "id": 162687958,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/FE78216C-D907-C245-A263-BC0E43E217D4.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 20646315119,
+          "time_create": 1564863628.21695
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16509801679,
+          "checksum": "adler32:ef3f7083,cksum:1311945511",
+          "creation_time": 1564801776.91906,
+          "id": 162634422,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/03DC59D0-D4E1-5744-80FB-0B68A61FA781.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16509801679,
+          "time_create": 1564801776.91906
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 14180295470,
+          "checksum": "adler32:2ed25290,cksum:2628044447",
+          "creation_time": 1564792613.53626,
+          "id": 162628286,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/4C022EBA-9EFF-044C-85C7-2B24581FD1AA.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 14180295470,
+          "time_create": 1564792613.53626
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19835602987,
+          "checksum": "adler32:f97c8fee,cksum:523252274",
+          "creation_time": 1564800060.27185,
+          "id": 162633127,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/6B85D1C2-AA34-044D-A4D7-14BA781D23B7.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19835602987,
+          "time_create": 1564800060.27185
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16320895091,
+          "checksum": "adler32:d5d644f6,cksum:1185713907",
+          "creation_time": 1564808859.30417,
+          "id": 162639627,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/5E9A7EAB-A6A9-D849-8BE3-EAE0C86075AA.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16320895091,
+          "time_create": 1564808859.30417
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16693735836,
+          "checksum": "adler32:99f4ac8d,cksum:3305042595",
+          "creation_time": 1564873432.92917,
+          "id": 162696826,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/DD9CBA4F-6648-CF48-8B4F-E210C0A5E847.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16693735836,
+          "time_create": 1564873432.92917
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 15979435847,
+          "checksum": "adler32:261b7b85,cksum:3796267013",
+          "creation_time": 1564795987.27828,
+          "id": 162630461,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/F9202EEC-F679-DC4E-AC21-340BC2A927BF.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 15979435847,
+          "time_create": 1564795987.27828
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16821445522,
+          "checksum": "adler32:9dde8cd7,cksum:2153442253",
+          "creation_time": 1564801776.91906,
+          "id": 162634425,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/233686AC-A293-C942-92AF-4D45DD5B86BB.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16821445522,
+          "time_create": 1564801776.91906
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 13640507443,
+          "checksum": "adler32:83d9207c,cksum:3039757095",
+          "creation_time": 1564798198.12612,
+          "id": 162632024,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/82A6BB7A-5BB8-074C-92CE-0B1A8F1017F0.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 13640507443,
+          "time_create": 1564798198.12612
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 18864308783,
+          "checksum": "adler32:0113ed0f,cksum:3290503510",
+          "creation_time": 1564823869.28211,
+          "id": 162649338,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/74E31F6B-3EBE-6047-B645-DCA687254B32.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 18864308783,
+          "time_create": 1564823869.28211
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19144466740,
+          "checksum": "adler32:cab2a93f,cksum:587801750",
+          "creation_time": 1564829671.98798,
+          "id": 162654424,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/1A261FB7-6079-1B41-BD73-D76309AB0C99.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19144466740,
+          "time_create": 1564829671.98798
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 17306566217,
+          "checksum": "adler32:af7f08c2,cksum:2561023271",
+          "creation_time": 1564807865.59285,
+          "id": 162638785,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/21261A81-582C-D84A-B647-32AD89E4B4DF.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 17306566217,
+          "time_create": 1564807865.59285
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 18356347387,
+          "checksum": "adler32:837796b1,cksum:3980506836",
+          "creation_time": 1564808859.30417,
+          "id": 162639629,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/A38A8238-FE16-584D-A3FF-828A1D2F8A95.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 18356347387,
+          "time_create": 1564808859.30417
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 16623979304,
+          "checksum": "adler32:99d00bbc,cksum:2005779013",
+          "creation_time": 1564801776.91906,
+          "id": 162634423,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/C2E1215E-A20B-6843-BF40-A6B4A51E003D.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 16623979304,
+          "time_create": 1564801776.91906
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 19551661462,
+          "checksum": "adler32:c3b02055,cksum:1541068625",
+          "creation_time": 1564825742.92014,
+          "id": 162651863,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/8016D643-F8CE-544D-BCC1-E02784F1E2A4.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 19551661462,
+          "time_create": 1564825742.92014
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    },
+    {
+      "das": {
+        "expire": 1565594424,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "phedex:fileReplicas4dataset"
+        ]
+      },
+      "file": [
+        {
+          "bytes": 20607282318,
+          "checksum": "adler32:e21f4046,cksum:2886806015",
+          "creation_time": 1564837195.3591,
+          "id": 162659171,
+          "name": "/store/data/Run2017B/ZeroBias/ALCARECO/SiStripCalMinBias-25Jul2019_UL2017-v1/50000/D6FC6F63-C5B5-9D4A-98E9-1B73F925779B.root",
+          "original_node": null,
+          "replica": [
+            {
+              "custodial": "n",
+              "group": "DataOps",
+              "node": "T2_CH_CERN",
+              "node_id": 1561,
+              "se": "srm-eoscms.cern.ch",
+              "subscribed": "y",
+              "time_create": null
+            }
+          ],
+          "size": 20607282318,
+          "time_create": 1564837195.3591
+        }
+      ],
+      "qhash": "1a242477e7bb1f98ca03b7a03943dd66"
+    }
+  ],
+  "ecode": "",
+  "mongo_query": {
+    "aggregators": [],
+    "detail": true,
+    "error": "",
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name",
+        "file.name"
+      ],
+      "sort": [
+        "file.name"
+      ],
+      "unique": [
+        "1"
+      ]
+    },
+    "hash": "1a242477e7bb1f98ca03b7a03943dd66",
+    "instance": "prod/global",
+    "pipe": "grep file.name | grep file.name | sort file.name | unique",
+    "query": "file dataset=/ZeroBias/Run2017B-SiStripCalMinBias-25Jul2019_UL2017-v1/ALCARECO site=T2_CH_CERN  detail=true | grep file.name | grep file.name | sort file.name | unique",
+    "spec": {
+      "dataset": "/ZeroBias/Run2017B-SiStripCalMinBias-25Jul2019_UL2017-v1/ALCARECO",
+      "site": "T2_CH_CERN*"
+    },
+    "system": "",
+    "tstamp": 1565594423
+  },
+  "nresults": 68,
+  "status": "ok",
+  "timestamp": 1565594424
+}
