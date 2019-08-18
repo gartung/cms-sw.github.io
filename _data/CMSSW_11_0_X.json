@@ -358,8 +358,8 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/11.0-fri-23/CMSSW_11_0_X_2019-08-16-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1739, 
-                        "known_failed": 44, 
+                        "num_passed": 1744, 
+                        "known_failed": 45, 
                         "num_failed": 124
                     }
                 }, 
