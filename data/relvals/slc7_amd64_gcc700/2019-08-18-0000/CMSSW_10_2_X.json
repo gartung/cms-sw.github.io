@@ -648,6 +648,29 @@
     },
     {
         "exitcode": 0,
+        "id": "115.0",
+        "known_error": 0,
+        "name": "QCD_Pt_50_80+QCD_Pt_50_80+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 33
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 18
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 168
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "116.0",
         "known_error": 0,
         "name": "QCD_Pt_80_120+QCD_Pt_80_120_2HS+DIGI+RECO",
@@ -1587,6 +1610,34 @@
     },
     {
         "exitcode": 0,
+        "id": "136.819",
+        "known_error": 0,
+        "name": "RunJetHT2017E+RunJetHT2017E+HLTDR2_2017+RECODR2_2017reHLT_skimJetHT_Prompt+HARVEST2017",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 48,
+                "status": "PASSED",
+                "warnings": 78
+            },
+            {
+                "errors": 211,
+                "status": "PASSED",
+                "warnings": 1707
+            },
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "136.829",
         "known_error": 0,
         "name": "RunDoubleEG2017F+RunDoubleEG2017F+HLTDR2_2017+RECODR2_2017reHLT_skimDoubleEG_Prompt+HARVEST2017",
@@ -1791,6 +1842,34 @@
                 "errors": 10,
                 "status": "PASSED",
                 "warnings": 1266
+            },
+            {
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.87",
+        "known_error": 0,
+        "name": "RunNoBPTX2018B+RunNoBPTX2018B+HLTDR2_2018+RECODR2_2018reHLTAlCaTkCosmics_Prompt+HARVEST2018",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 382
+            },
+            {
+                "errors": 10,
+                "status": "PASSED",
+                "warnings": 1693
             },
             {
                 "errors": 26,
@@ -2721,6 +2800,29 @@
     },
     {
         "exitcode": 0,
+        "id": "1301.0",
+        "known_error": 0,
+        "name": "ProdMinBias_13+ProdMinBias_13+DIGIUP15PROD1+RECOPRODUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 27
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 14
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 134
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1302.0",
         "known_error": 0,
         "name": "ProdTTbar_13+ProdTTbar_13+DIGIUP15PROD1+RECOPRODUP15",
@@ -2739,6 +2841,29 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 134
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1302.17",
+        "known_error": 0,
+        "name": "ProdTTbar_13UP17+ProdTTbar_13UP17+DIGIUP17PROD1+RECOPRODUP17",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 35
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 12
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 129
             }
         ]
     },
@@ -3421,6 +3546,29 @@
                 "errors": 2,
                 "status": "PASSED",
                 "warnings": 286
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4007.0",
+        "known_error": 0,
+        "name": "QCD_Pt_30_80_BCtoE_8TeV+QCD_Pt_30_80_BCtoE_8TeV+DIGIPU1+RECOPUDBG",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 19
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 5
             }
         ]
     },
