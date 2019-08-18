@@ -6827,6 +6827,34 @@
     },
     {
         "exitcode": 0,
+        "id": "136.828",
+        "known_error": 0,
+        "name": "RunHLTPhy2017F+RunHLTPhy2017F+HLTDR2_2017+RECODR2_2017reHLT_Prompt+HARVEST2017",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 88
+            },
+            {
+                "errors": 210,
+                "status": "PASSED",
+                "warnings": 1408
+            },
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "136.831",
         "known_error": 0,
         "name": "RunJetHT2017F+RunJetHT2017F+HLTDR2_2017+RECODR2_2017reHLT_skimJetHT_Prompt+HARVEST2017",
@@ -11562,6 +11590,29 @@
     },
     {
         "exitcode": 0,
+        "id": "4003.0",
+        "known_error": 0,
+        "name": "ZMM+ZMMINPUT+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 201
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 394
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4006.0",
         "known_error": 0,
         "name": "SingleElectronFlatPt1To100+SingleElectronFlatPt1To100+DIGIPU1+RECOPU1",
@@ -12407,6 +12458,34 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 914
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25205.0",
+        "known_error": 0,
+        "name": "ZTT_13+ZTT_13INPUT+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 180
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 653
             },
             {
                 "errors": 89,
