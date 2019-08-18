@@ -2472,6 +2472,34 @@
     },
     {
         "exitcode": 0,
+        "id": "134.706",
+        "known_error": 0,
+        "name": "RunMuonEG2015B+RunMuonEG2015B+HLTDR2_50ns+RECODR2_50nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 103
+            },
+            {
+                "errors": 213,
+                "status": "PASSED",
+                "warnings": 3049
+            },
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.707",
         "known_error": 0,
         "name": "RunSingleEl2015B+RunSingleEl2015B+HLTDR2_50ns+RECODR2_50nsreHLT_HIPM+HARVESTDR2",
@@ -6020,6 +6048,34 @@
                 "errors": 10,
                 "status": "PASSED",
                 "warnings": 2110
+            },
+            {
+                "errors": 94,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.846",
+        "known_error": 0,
+        "name": "RunCharmonium2017D+RunCharmonium2017D+HLTDR2_2017+RECODR2_2017reHLT_skimCharmonium_Prompt+HARVEST2017",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 128
+            },
+            {
+                "errors": 10,
+                "status": "PASSED",
+                "warnings": 1635
             },
             {
                 "errors": 94,
@@ -12361,6 +12417,34 @@
                 "errors": 7,
                 "status": "PASSED",
                 "warnings": 10
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "20434.21",
+        "known_error": 0,
+        "name": "TTbar_14TeV_ProdLike+TTbar_14TeV_TuneCUETP8M1_2026D41_GenSimHLBeamSpotFull14INPUT+DigiFullTrigger_2026D41+RecoFullGlobal_ProdLike_2026D41+MiniAODFullGlobal_ProdLike_2026D41",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 19
+            },
+            {
+                "errors": 13,
+                "status": "PASSED",
+                "warnings": 229
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 209
             }
         ]
     },
