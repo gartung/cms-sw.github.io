@@ -96,7 +96,7 @@
             "static_checks_v2": "not-found", 
             "valgrind": "not-found", 
             "material_budget": "not-found", 
-            "dupDict": "passed", 
+            "dupDict": "error", 
             "static_checks_failures": "not-found", 
             "static_checks": "not-found", 
             "isIB": true, 
