@@ -17635,6 +17635,39 @@
     },
     {
         "exitcode": 0,
+        "id": "250202.1",
+        "known_error": 0,
+        "name": "TTbar_13+TTbar_13INPUT+PREMIXUP15_PU25+DIGIPRMXLOCALUP15_PU25+RECOPRMXUP15_PU25+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 11
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 29
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 173
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "250202.118",
         "known_error": 0,
         "name": "ProdTTbar_13_pmx25ns+ProdTTbar_13UP18+DIGIPRMXUP18_PROD_PU25+RECOPRMXUP18PROD_PU25+NANOEDMMC2018_PROD",
