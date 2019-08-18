@@ -1,2 +1,5 @@
-Timestamp WorkflowId PeakValueRss1 PeakValueRss2 PeakValueRss3 PeakValueVsize1 PeakValueVsize2 PeakValueVsize3 TotalJobCPU1 TotalJobCPU2 TotalJobCPU3 TotalJobTime1 TotalJobTime2 TotalJobTime3
-1566079200.0 516.0 15 29 0 132 65 0 70 43 35 5020 110 99
+Timestamp WorkflowId PeakValueRss1 PeakValueRss2 PeakValueRss3 PeakValueRss4 PeakValueVsize1 PeakValueVsize2 PeakValueVsize3 PeakValueVsize4 TotalJobCPU1 TotalJobCPU2 TotalJobCPU3 TotalJobCPU4 TotalJobTime1 TotalJobTime2 TotalJobTime3 TotalJobTime4
+1566079200.0 134.99901 NA 42 227 0 NA 86 298 0 NA 173 4511 434 NA 299 5634 499
+1566079200.0 39.0 NA 87 199 0 NA 151 259 0 NA 1922 3699 624 NA 2057 4004 704
+1566079200.0 4.74 NA 39 222 0 NA 79 296 0 NA 149 5244 427 NA 263 5495 468
+1566079200.0 516.0 15 29 0 NA 132 65 0 NA 70 43 35 NA 5020 110 99 NA
