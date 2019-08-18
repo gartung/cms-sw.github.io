@@ -3,7 +3,7 @@
   "data": [
     {
       "das": {
-        "expire": 1565897236,
+        "expire": 1566157106,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -20,24 +20,7 @@
     },
     {
       "das": {
-        "expire": 1565897236,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "combined:files4dataset_runs_site"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2012C/SingleElectron/USER/WElectron-PromptSkim-v3/000/203/002/00000/DEB51279-4804-E211-AF37-003048FFCBA8.root"
-        }
-      ],
-      "qhash": "2839b4e057be0b0c1f1b26fa7a5e5787"
-    },
-    {
-      "das": {
-        "expire": 1565897236,
+        "expire": 1566157106,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -54,7 +37,7 @@
     },
     {
       "das": {
-        "expire": 1565897236,
+        "expire": 1566157106,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -64,14 +47,14 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2012C/SingleElectron/USER/WElectron-PromptSkim-v3/000/203/002/00000/06CBF5D9-AD04-E211-8433-001A9281173A.root"
+          "name": "/store/data/Run2012C/SingleElectron/USER/WElectron-PromptSkim-v3/000/203/002/00000/DEB51279-4804-E211-AF37-003048FFCBA8.root"
         }
       ],
       "qhash": "2839b4e057be0b0c1f1b26fa7a5e5787"
     },
     {
       "das": {
-        "expire": 1565897236,
+        "expire": 1566157106,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -82,6 +65,23 @@
       "file": [
         {
           "name": "/store/data/Run2012C/SingleElectron/USER/WElectron-PromptSkim-v3/000/203/002/00000/0E09FC21-2E04-E211-ACF3-002618943807.root"
+        }
+      ],
+      "qhash": "2839b4e057be0b0c1f1b26fa7a5e5787"
+    },
+    {
+      "das": {
+        "expire": 1566157106,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "combined:files4dataset_runs_site"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2012C/SingleElectron/USER/WElectron-PromptSkim-v3/000/203/002/00000/06CBF5D9-AD04-E211-8433-001A9281173A.root"
         }
       ],
       "qhash": "2839b4e057be0b0c1f1b26fa7a5e5787"
@@ -116,9 +116,9 @@
       "site": "T2_CH_CERN"
     },
     "system": "",
-    "tstamp": 1565897229
+    "tstamp": 1566157099
   },
   "nresults": 5,
   "status": "ok",
-  "timestamp": 1565897236
+  "timestamp": 1566157106
 }

@@ -1,9 +1,9 @@
 {
-  "ctime": 4,
+  "ctime": 3,
   "data": [
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -52,7 +52,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -107,7 +107,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -158,7 +158,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -212,7 +212,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -262,7 +262,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -314,7 +314,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -366,7 +366,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -393,7 +393,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -420,7 +420,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -472,7 +472,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -523,7 +523,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -571,7 +571,82 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/FE4425AA-3326-E711-958D-48FD8E282497.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1455,
+            1456
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/8E6AC94C-2D26-E711-B71E-0025907B4F78.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1457
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/C4CCB3AB-4626-E711-A6E5-48D539F38636.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1459,
+            1458,
+            1460
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -597,7 +672,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -631,7 +706,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -657,7 +732,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -686,7 +761,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -715,7 +790,217 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/28C832FA-BF25-E711-A18B-24BE05CE4D91.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1135,
+            1219,
+            1131,
+            1199,
+            1207,
+            1195,
+            1252,
+            1259,
+            1232
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/02EF1E7D-C825-E711-85C3-E0071B6C9DE0.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1419,
+            1418
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/E2C0AF9C-CA25-E711-A9FD-A0000420FE80.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1139,
+            1140,
+            1404,
+            1405
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/269C3B34-C925-E711-A804-A0000420FE80.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1378,
+            1379
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/56F33658-C825-E711-8E13-24BE05CE4D91.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1234,
+            1260,
+            1261,
+            1233
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/2EC3B8F4-CA25-E711-B787-A0000420FE80.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1345,
+            1344
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/3E0C94BF-C125-E711-B0E9-5065F381F291.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            416
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/3AB8D543-BD25-E711-95F5-E0071B73B6D0.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1203,
+            1211
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -765,7 +1050,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -819,7 +1104,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -861,7 +1146,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -893,7 +1178,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -922,7 +1207,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -949,7 +1234,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -985,7 +1270,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1018,7 +1303,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1054,7 +1339,35 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D44830F1-C526-E711-8FA7-F02FA768CFD8.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1336,
+            545,
+            1337,
+            1335,
+            544
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1079,7 +1392,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1089,21 +1402,18 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/28C832FA-BF25-E711-A18B-24BE05CE4D91.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/6E72C252-2D26-E711-9223-0025905A60F8.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            1135,
-            1219,
-            1131,
-            1199,
-            1207,
-            1195,
-            1252,
-            1259,
-            1232
+            973,
+            929,
+            1015,
+            1016,
+            930,
+            974
           ]
         }
       ],
@@ -1111,7 +1421,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1121,14 +1431,21 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/02EF1E7D-C825-E711-85C3-E0071B6C9DE0.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/660A9E12-2A26-E711-A1B4-0025905A60E0.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            1419,
-            1418
+            1146,
+            421,
+            1241,
+            1441,
+            1432,
+            1493,
+            1228,
+            1111,
+            1444
           ]
         }
       ],
@@ -1136,7 +1453,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1146,16 +1463,14 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/E2C0AF9C-CA25-E711-A9FD-A0000420FE80.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D878E7C1-2D26-E711-A73E-0CC47A78A4A6.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            1139,
-            1140,
-            1404,
-            1405
+            1103,
+            1102
           ]
         }
       ],
@@ -1163,7 +1478,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1173,14 +1488,16 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/269C3B34-C925-E711-A804-A0000420FE80.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D62BDB11-2A26-E711-9938-0CC47A4C8E5E.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            1378,
-            1379
+            602,
+            432,
+            1466,
+            1173
           ]
         }
       ],
@@ -1188,7 +1505,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1198,16 +1515,15 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/56F33658-C825-E711-8E13-24BE05CE4D91.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/8C940D11-2A26-E711-BE92-0025905A6118.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            1234,
-            1260,
-            1261,
-            1233
+            961,
+            962,
+            1463
           ]
         }
       ],
@@ -1215,7 +1531,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1225,14 +1541,19 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/2EC3B8F4-CA25-E711-B787-A0000420FE80.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A6F4500D-2A26-E711-88BB-0025905A60FE.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            1345,
-            1344
+            639,
+            239,
+            1438,
+            1481,
+            640,
+            1484,
+            424
           ]
         }
       ],
@@ -1240,7 +1561,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1250,13 +1571,14 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/3E0C94BF-C125-E711-B0E9-5065F381F291.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/18C48F90-2126-E711-B869-0CC47A78A426.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            416
+            1248,
+            429
           ]
         }
       ],
@@ -1264,7 +1586,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1274,14 +1596,13 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/3AB8D543-BD25-E711-95F5-E0071B73B6D0.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/748B6239-1926-E711-8DA1-0CC47A4D7674.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            1203,
-            1211
+            1470
           ]
         }
       ],
@@ -1289,7 +1610,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1334,7 +1655,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1361,7 +1682,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1390,7 +1711,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1431,7 +1752,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1470,7 +1791,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1509,7 +1830,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1548,7 +1869,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1576,377 +1897,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/18C48F90-2126-E711-B869-0CC47A78A426.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1248,
-            429
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/748B6239-1926-E711-8DA1-0CC47A4D7674.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1470
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/FE4425AA-3326-E711-958D-48FD8E282497.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1455,
-            1456
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/8E6AC94C-2D26-E711-B71E-0025907B4F78.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1457
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/C4CCB3AB-4626-E711-A6E5-48D539F38636.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1459,
-            1458,
-            1460
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/CEC3DD40-0E26-E711-A5B7-A0000420FE80.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            510,
-            511
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D44830F1-C526-E711-8FA7-F02FA768CFD8.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1336,
-            545,
-            1337,
-            1335,
-            544
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/6E72C252-2D26-E711-9223-0025905A60F8.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            973,
-            929,
-            1015,
-            1016,
-            930,
-            974
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/660A9E12-2A26-E711-A1B4-0025905A60E0.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1146,
-            421,
-            1241,
-            1441,
-            1432,
-            1493,
-            1228,
-            1111,
-            1444
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D878E7C1-2D26-E711-A73E-0CC47A78A4A6.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1103,
-            1102
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D62BDB11-2A26-E711-9938-0CC47A4C8E5E.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            602,
-            432,
-            1466,
-            1173
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/8C940D11-2A26-E711-BE92-0025905A6118.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            961,
-            962,
-            1463
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A6F4500D-2A26-E711-88BB-0025905A60FE.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            639,
-            239,
-            1438,
-            1481,
-            640,
-            1484,
-            424
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A0B0943D-1926-E711-8B25-0CC47A4C8F06.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1476
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -1975,7 +1926,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2017,7 +1968,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2072,7 +2023,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2109,7 +2060,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2144,7 +2095,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2207,7 +2158,1318 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/1CE02FFE-3926-E711-B5F3-0CC47A7C3432.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            475,
+            992,
+            258,
+            407,
+            748,
+            991,
+            1347,
+            406,
+            762,
+            474,
+            749,
+            763,
+            1346,
+            259
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/0A21BDAD-4126-E711-AF6F-0CC47A4C8EE8.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1461,
+            1364,
+            1462,
+            1060,
+            1366,
+            1390,
+            1428,
+            1365,
+            1368,
+            1369,
+            1367,
+            1427,
+            1391,
+            1059
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/F89F3AF8-3926-E711-870B-0025905A608A.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            931,
+            933,
+            1002,
+            1057,
+            1286,
+            1046,
+            1073,
+            1074,
+            1275,
+            793,
+            794,
+            1001,
+            1285,
+            932,
+            997,
+            998,
+            945,
+            946,
+            1045,
+            1058,
+            1273,
+            1274,
+            1284
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/E4B03FB2-4126-E711-9752-0025905A60B0.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            210,
+            636,
+            1361,
+            211,
+            304,
+            426,
+            550,
+            853,
+            425,
+            551,
+            1422,
+            303,
+            348,
+            1360,
+            1423,
+            635,
+            824,
+            347,
+            854,
+            823
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/5C1CDAFF-3926-E711-8FB3-0025905A6076.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            851,
+            1352,
+            205,
+            852,
+            982,
+            1021,
+            204,
+            203,
+            1010,
+            1017,
+            1023,
+            1056,
+            202,
+            981,
+            1018,
+            1022,
+            1353,
+            1009,
+            1024,
+            1055
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/6C2293F9-3926-E711-A100-0025905B8574.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            656,
+            1044,
+            605,
+            606,
+            1412,
+            869,
+            898,
+            1411,
+            1482,
+            1483,
+            534,
+            870,
+            976,
+            1026,
+            655,
+            925,
+            1043,
+            535,
+            926,
+            1025,
+            1079,
+            1080,
+            897,
+            975
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/5A1ECFF1-3926-E711-B49D-0025905B85F6.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            770,
+            970,
+            994,
+            801,
+            691,
+            802,
+            1063,
+            768,
+            1064,
+            690,
+            1350,
+            1355,
+            919,
+            920,
+            969,
+            993,
+            637,
+            638,
+            1351,
+            1354,
+            769
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/0862B007-4226-E711-8199-0CC47A4C8F06.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            440,
+            788,
+            818,
+            787,
+            683,
+            817,
+            334,
+            441,
+            1359,
+            1358,
+            333,
+            682
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/C0DD84F8-3926-E711-9FAF-0CC47A4D767E.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            230,
+            577,
+            1069,
+            404,
+            1066,
+            654,
+            231,
+            405,
+            755,
+            576,
+            653,
+            657,
+            658,
+            754,
+            1070,
+            1065,
+            1067,
+            1068
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/CEC3DD40-0E26-E711-A5B7-A0000420FE80.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            510,
+            511
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/BA2A3562-4726-E711-B17E-0025905A6068.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            238,
+            322,
+            372,
+            812,
+            984,
+            581,
+            829,
+            914,
+            237,
+            739,
+            805,
+            806,
+            321,
+            830,
+            371,
+            738,
+            811,
+            913,
+            220,
+            221,
+            580,
+            983
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/2C1E7E5E-4726-E711-904A-0CC47A4D7638.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            951,
+            614,
+            815,
+            952,
+            955,
+            977,
+            816,
+            978,
+            956,
+            613
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/8CD5F957-4726-E711-895F-0CC47A4C8ECA.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            197,
+            444,
+            448,
+            198,
+            329,
+            400,
+            443,
+            412,
+            413,
+            330,
+            399,
+            379,
+            380,
+            434,
+            512,
+            433,
+            447,
+            513
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A89CC0C2-4126-E711-A2D5-0025905A607E.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            631,
+            799,
+            968,
+            1247,
+            939,
+            499,
+            619,
+            1492,
+            498,
+            620,
+            940,
+            967,
+            1007,
+            1491,
+            10,
+            800,
+            1246,
+            1008,
+            9,
+            632,
+            1245
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A8860EB7-4226-E711-BF90-0CC47A78A418.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            676,
+            1401,
+            268,
+            736,
+            1424,
+            376,
+            419,
+            464,
+            737,
+            837,
+            838,
+            1385,
+            677,
+            693,
+            375,
+            465,
+            1384,
+            409,
+            688,
+            1425,
+            689,
+            269,
+            408,
+            420,
+            692,
+            1400
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/08506456-4226-E711-B26E-0CC47A7C3458.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            291,
+            456,
+            694,
+            695,
+            863,
+            271,
+            493,
+            206,
+            454,
+            596,
+            704,
+            292,
+            469,
+            473,
+            492,
+            272,
+            457,
+            468,
+            471,
+            705,
+            207,
+            455,
+            864,
+            881,
+            470,
+            472,
+            484,
+            485,
+            597,
+            882
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/06699F09-4226-E711-ACA7-0025905A613C.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            278,
+            289,
+            290,
+            417,
+            461,
+            674,
+            277,
+            1039,
+            1402,
+            1403,
+            438,
+            651,
+            708,
+            709,
+            1382,
+            1383,
+            1388,
+            460,
+            652,
+            675,
+            418,
+            673,
+            1040,
+            439,
+            1389
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/0E48535F-4726-E711-A8F8-0CC47A4D7604.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            696,
+            697,
+            1145,
+            569,
+            568,
+            760,
+            1143,
+            761,
+            1443,
+            723,
+            803,
+            216,
+            584,
+            585,
+            1442,
+            217,
+            722,
+            804,
+            1144
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/7889E2FC-4126-E711-B0B2-0025905A6134.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            23,
+            24
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/527627E2-4126-E711-ADD4-0025905B85D0.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            795,
+            912,
+            214,
+            783,
+            15,
+            215,
+            1406,
+            257,
+            356,
+            784,
+            796,
+            911,
+            1279,
+            686,
+            1407,
+            16,
+            604,
+            687,
+            355,
+            603,
+            1280,
+            256,
+            1278
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/BA6BA35D-4726-E711-A818-0CC47A4D7640.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            703,
+            889,
+            299,
+            735,
+            659,
+            734,
+            890,
+            300,
+            702,
+            849,
+            850,
+            660
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/267A89FF-2126-E711-AA47-0025905B8574.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1413,
+            1426,
+            199,
+            442,
+            446,
+            934
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/2EE9E1FD-2126-E711-A5A0-0025905B85C0.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1429,
+            1119,
+            232
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/90D78091-2126-E711-8552-0025905A60DE.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            445,
+            1496
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D83C9FFC-2126-E711-ADB9-0025905A612E.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            435
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A0B0943D-1926-E711-8B25-0CC47A4C8F06.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1476
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/2C822363-D525-E711-9C48-5065F38142E1.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            331,
+            187,
+            186,
+            332
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/6E8A972D-CF25-E711-808F-E0071B7AC750.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            415,
+            972,
+            1097,
+            971,
+            1098,
+            1381,
+            414,
+            1380
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/4645CC61-CE25-E711-ADF4-24BE05CE4D91.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            699,
+            698
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/D0ED89E0-D225-E711-A894-E0071B7A9810.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            523,
+            47,
+            48,
+            522
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/425CB021-DB25-E711-AFAD-5065F3817281.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            587,
+            586
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/F47DA768-D325-E711-8DA1-5065F381F291.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            140,
+            141
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/12F56EDC-D025-E711-B4CB-E0071B73C620.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            1448,
+            124,
+            1447,
+            125
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/3412BB0B-D025-E711-807D-5065F381E211.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            508,
+            1446,
+            509,
+            1445,
+            161,
+            1420,
+            160,
+            1421
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/9A3B971B-D725-E711-B665-24BE05C488E1.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            52,
+            76,
+            59,
+            77,
+            116,
+            51,
+            117,
+            58
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/F4F79447-D825-E711-8439-5065F37D4131.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            181,
+            180
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/A4FED58E-D025-E711-8F5F-24BE05C6C741.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            309,
+            310
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          "dbs3:file_lumi4dataset"
+        ]
+      },
+      "file": [
+        {
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/967C7249-D225-E711-9766-24BE05C6C741.root"
+        }
+      ],
+      "lumi": [
+        {
+          "number": [
+            524,
+            525
+          ]
+        }
+      ],
+      "qhash": "def58f2761813fc41711230040ed2170"
+    },
+    {
+      "das": {
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2233,7 +3495,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2258,7 +3520,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2283,7 +3545,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2312,7 +3574,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2339,7 +3601,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2368,7 +3630,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2393,7 +3655,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2418,7 +3680,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2443,7 +3705,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2468,7 +3730,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2508,7 +3770,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2557,7 +3819,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2591,7 +3853,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2622,7 +3884,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2647,7 +3909,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2710,7 +3972,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2757,7 +4019,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2824,7 +4086,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2863,7 +4125,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2873,34 +4135,14 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/BA2A3562-4726-E711-B17E-0025905A6068.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/9A5279FE-5926-E711-9D09-0025905B8574.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            238,
-            322,
-            372,
-            812,
-            984,
-            581,
-            829,
-            914,
-            237,
-            739,
-            805,
-            806,
-            321,
-            830,
-            371,
-            738,
-            811,
-            913,
-            220,
-            221,
-            580,
-            983
+            667,
+            668
           ]
         }
       ],
@@ -2908,7 +4150,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2918,22 +4160,18 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/2C1E7E5E-4726-E711-904A-0CC47A4D7638.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/9661F43B-5A26-E711-AA08-0025905A60E4.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            951,
-            614,
-            815,
-            952,
-            955,
-            977,
-            816,
-            978,
-            956,
-            613
+            1334,
+            1338,
+            1333,
+            1339,
+            1332,
+            1340
           ]
         }
       ],
@@ -2941,7 +4179,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2951,30 +4189,18 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/8CD5F957-4726-E711-895F-0CC47A4C8ECA.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/7E8EB53D-5A26-E711-A2C8-0025905A6122.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            197,
-            444,
-            448,
-            198,
-            329,
-            400,
-            443,
-            412,
-            413,
-            330,
-            399,
-            379,
-            380,
-            434,
-            512,
-            433,
-            447,
-            513
+            1321,
+            1322,
+            1099,
+            1101,
+            1320,
+            1100
           ]
         }
       ],
@@ -2982,7 +4208,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -2992,33 +4218,14 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A89CC0C2-4126-E711-A2D5-0025905A607E.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/F4446ECC-5426-E711-814E-0025905A6060.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            631,
-            799,
-            968,
-            1247,
-            939,
-            499,
-            619,
-            1492,
-            498,
-            620,
-            940,
-            967,
-            1007,
-            1491,
-            10,
-            800,
-            1246,
-            1008,
-            9,
-            632,
-            1245
+            284,
+            283
           ]
         }
       ],
@@ -3026,7 +4233,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -3036,38 +4243,19 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A8860EB7-4226-E711-BF90-0CC47A78A418.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D8BFE9EC-5926-E711-A56B-0CC47A78A4BA.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            676,
-            1401,
-            268,
-            736,
-            1424,
-            376,
-            419,
-            464,
-            737,
-            837,
-            838,
-            1385,
-            677,
-            693,
-            375,
-            465,
-            1384,
-            409,
-            688,
-            1425,
-            689,
-            269,
-            408,
-            420,
-            692,
-            1400
+            609,
+            1255,
+            1253,
+            1254,
+            226,
+            227,
+            610
           ]
         }
       ],
@@ -3075,7 +4263,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -3085,42 +4273,16 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/08506456-4226-E711-B26E-0CC47A7C3458.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/8AEDCA4E-5A26-E711-B357-0CC47A4D76AC.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            291,
-            456,
-            694,
-            695,
-            863,
-            271,
-            493,
-            206,
-            454,
-            596,
-            704,
-            292,
-            469,
-            473,
-            492,
-            272,
-            457,
-            468,
-            471,
-            705,
-            207,
-            455,
-            864,
-            881,
-            470,
-            472,
-            484,
-            485,
-            597,
-            882
+            260,
+            261,
+            721,
+            720
           ]
         }
       ],
@@ -3128,7 +4290,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -3138,37 +4300,15 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/06699F09-4226-E711-ACA7-0025905A613C.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/9CF0F63A-5A26-E711-A69D-003048FFD75A.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            278,
-            289,
-            290,
-            417,
-            461,
-            674,
-            277,
-            1039,
-            1402,
-            1403,
-            438,
-            651,
-            708,
-            709,
-            1382,
-            1383,
-            1388,
-            460,
-            652,
-            675,
-            418,
-            673,
-            1040,
-            439,
-            1389
+            1181,
+            1182,
+            1183
           ]
         }
       ],
@@ -3176,7 +4316,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -3186,31 +4326,21 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/0E48535F-4726-E711-A8F8-0CC47A4D7604.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/5EE10C22-5A26-E711-A903-0025905B85DE.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            696,
-            697,
-            1145,
-            569,
-            568,
-            760,
-            1143,
-            761,
-            1443,
-            723,
-            803,
-            216,
-            584,
-            585,
-            1442,
-            217,
-            722,
-            804,
-            1144
+            1324,
+            1223,
+            1323,
+            1330,
+            1224,
+            1331,
+            1222,
+            1325,
+            1329
           ]
         }
       ],
@@ -3218,7 +4348,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -3228,14 +4358,14 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/7889E2FC-4126-E711-B0B2-0025905A6134.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/E0DFE2C1-5926-E711-8F75-0CC47A4C8EEA.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            23,
-            24
+            338,
+            337
           ]
         }
       ],
@@ -3243,7 +4373,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -3253,35 +4383,23 @@
       },
       "file": [
         {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/527627E2-4126-E711-ADD4-0025905B85D0.root"
+          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A4805AEA-5926-E711-BF3D-0025905A6060.root"
         }
       ],
       "lumi": [
         {
           "number": [
-            795,
-            912,
-            214,
-            783,
-            15,
-            215,
-            1406,
-            257,
-            356,
-            784,
-            796,
-            911,
-            1279,
-            686,
-            1407,
-            16,
-            604,
-            687,
-            355,
-            603,
-            1280,
-            256,
-            1278
+            1302,
+            1303,
+            678,
+            714,
+            222,
+            624,
+            679,
+            1304,
+            223,
+            623,
+            715
           ]
         }
       ],
@@ -3289,843 +4407,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/BA6BA35D-4726-E711-A818-0CC47A4D7640.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            703,
-            889,
-            299,
-            735,
-            659,
-            734,
-            890,
-            300,
-            702,
-            849,
-            850,
-            660
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/2C822363-D525-E711-9C48-5065F38142E1.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            331,
-            187,
-            186,
-            332
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/6E8A972D-CF25-E711-808F-E0071B7AC750.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            415,
-            972,
-            1097,
-            971,
-            1098,
-            1381,
-            414,
-            1380
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/4645CC61-CE25-E711-ADF4-24BE05CE4D91.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            699,
-            698
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/D0ED89E0-D225-E711-A894-E0071B7A9810.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            523,
-            47,
-            48,
-            522
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/425CB021-DB25-E711-AFAD-5065F3817281.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            587,
-            586
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/F47DA768-D325-E711-8DA1-5065F381F291.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            140,
-            141
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/12F56EDC-D025-E711-B4CB-E0071B73C620.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1448,
-            124,
-            1447,
-            125
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/3412BB0B-D025-E711-807D-5065F381E211.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            508,
-            1446,
-            509,
-            1445,
-            161,
-            1420,
-            160,
-            1421
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/9A3B971B-D725-E711-B665-24BE05C488E1.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            52,
-            76,
-            59,
-            77,
-            116,
-            51,
-            117,
-            58
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/F4F79447-D825-E711-8439-5065F37D4131.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            181,
-            180
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/A4FED58E-D025-E711-8F5F-24BE05C6C741.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            309,
-            310
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/110000/967C7249-D225-E711-9766-24BE05C6C741.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            524,
-            525
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/1CE02FFE-3926-E711-B5F3-0CC47A7C3432.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            475,
-            992,
-            258,
-            407,
-            748,
-            991,
-            1347,
-            406,
-            762,
-            474,
-            749,
-            763,
-            1346,
-            259
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/0A21BDAD-4126-E711-AF6F-0CC47A4C8EE8.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1461,
-            1364,
-            1462,
-            1060,
-            1366,
-            1390,
-            1428,
-            1365,
-            1368,
-            1369,
-            1367,
-            1427,
-            1391,
-            1059
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/F89F3AF8-3926-E711-870B-0025905A608A.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            931,
-            933,
-            1002,
-            1057,
-            1286,
-            1046,
-            1073,
-            1074,
-            1275,
-            793,
-            794,
-            1001,
-            1285,
-            932,
-            997,
-            998,
-            945,
-            946,
-            1045,
-            1058,
-            1273,
-            1274,
-            1284
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/E4B03FB2-4126-E711-9752-0025905A60B0.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            210,
-            636,
-            1361,
-            211,
-            304,
-            426,
-            550,
-            853,
-            425,
-            551,
-            1422,
-            303,
-            348,
-            1360,
-            1423,
-            635,
-            824,
-            347,
-            854,
-            823
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/5C1CDAFF-3926-E711-8FB3-0025905A6076.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            851,
-            1352,
-            205,
-            852,
-            982,
-            1021,
-            204,
-            203,
-            1010,
-            1017,
-            1023,
-            1056,
-            202,
-            981,
-            1018,
-            1022,
-            1353,
-            1009,
-            1024,
-            1055
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/6C2293F9-3926-E711-A100-0025905B8574.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            656,
-            1044,
-            605,
-            606,
-            1412,
-            869,
-            898,
-            1411,
-            1482,
-            1483,
-            534,
-            870,
-            976,
-            1026,
-            655,
-            925,
-            1043,
-            535,
-            926,
-            1025,
-            1079,
-            1080,
-            897,
-            975
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/5A1ECFF1-3926-E711-B49D-0025905B85F6.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            770,
-            970,
-            994,
-            801,
-            691,
-            802,
-            1063,
-            768,
-            1064,
-            690,
-            1350,
-            1355,
-            919,
-            920,
-            969,
-            993,
-            637,
-            638,
-            1351,
-            1354,
-            769
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/0862B007-4226-E711-8199-0CC47A4C8F06.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            440,
-            788,
-            818,
-            787,
-            683,
-            817,
-            334,
-            441,
-            1359,
-            1358,
-            333,
-            682
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/C0DD84F8-3926-E711-9FAF-0CC47A4D767E.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            230,
-            577,
-            1069,
-            404,
-            1066,
-            654,
-            231,
-            405,
-            755,
-            576,
-            653,
-            657,
-            658,
-            754,
-            1070,
-            1065,
-            1067,
-            1068
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/267A89FF-2126-E711-AA47-0025905B8574.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1413,
-            1426,
-            199,
-            442,
-            446,
-            934
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/2EE9E1FD-2126-E711-A5A0-0025905B85C0.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1429,
-            1119,
-            232
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/90D78091-2126-E711-8552-0025905A60DE.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            445,
-            1496
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D83C9FFC-2126-E711-ADB9-0025905A612E.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            435
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -4158,7 +4440,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -4193,7 +4475,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -4219,7 +4501,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -4244,7 +4526,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -4271,7 +4553,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -4296,7 +4578,7 @@
     },
     {
       "das": {
-        "expire": 1565853521,
+        "expire": 1566155873,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -4318,288 +4600,6 @@
             552,
             553,
             600
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/9A5279FE-5926-E711-9D09-0025905B8574.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            667,
-            668
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/9661F43B-5A26-E711-AA08-0025905A60E4.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1334,
-            1338,
-            1333,
-            1339,
-            1332,
-            1340
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/7E8EB53D-5A26-E711-A2C8-0025905A6122.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1321,
-            1322,
-            1099,
-            1101,
-            1320,
-            1100
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/F4446ECC-5426-E711-814E-0025905A6060.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            284,
-            283
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/D8BFE9EC-5926-E711-A56B-0CC47A78A4BA.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            609,
-            1255,
-            1253,
-            1254,
-            226,
-            227,
-            610
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/8AEDCA4E-5A26-E711-B357-0CC47A4D76AC.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            260,
-            261,
-            721,
-            720
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/9CF0F63A-5A26-E711-A69D-003048FFD75A.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1181,
-            1182,
-            1183
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/5EE10C22-5A26-E711-A903-0025905B85DE.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1324,
-            1223,
-            1323,
-            1330,
-            1224,
-            1331,
-            1222,
-            1325,
-            1329
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/E0DFE2C1-5926-E711-8F75-0CC47A4C8EEA.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            338,
-            337
-          ]
-        }
-      ],
-      "qhash": "def58f2761813fc41711230040ed2170"
-    },
-    {
-      "das": {
-        "expire": 1565853521,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          "dbs3:file_lumi4dataset"
-        ]
-      },
-      "file": [
-        {
-          "name": "/store/data/Run2016H/JetHT/MINIAOD/18Apr2017-v1/60000/A4805AEA-5926-E711-BF3D-0025905A6060.root"
-        }
-      ],
-      "lumi": [
-        {
-          "number": [
-            1302,
-            1303,
-            678,
-            714,
-            222,
-            624,
-            679,
-            1304,
-            223,
-            623,
-            715
           ]
         }
       ],
@@ -4635,9 +4635,9 @@
       "run": "283877"
     },
     "system": "",
-    "tstamp": 1565853516
+    "tstamp": 1566155869
   },
   "nresults": 135,
   "status": "ok",
-  "timestamp": 1565853521
+  "timestamp": 1566155873
 }
