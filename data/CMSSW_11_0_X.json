@@ -56,7 +56,16 @@
         }, 
         {
             "comp_baseline_state": "ok", 
-            "python3_tests": [], 
+            "python3_tests": [
+                {
+                    "arch": "slc7_amd64_gcc700", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc700/www/sun/11.0-sun-00/CMSSW_11_0_X_2019-08-18-0000/python3.html", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }
+            ], 
             "tests_archs": [
                 "slc7_amd64_gcc700", 
                 "slc7_amd64_gcc820", 
@@ -98,7 +107,7 @@
                 "slc7_amd64_gcc820": "IB/CMSSW_11_0_X_2019-08-18-0000/slc7_amd64_gcc820", 
                 "slc7_amd64_gcc900": "IB/CMSSW_11_0_X_2019-08-18-0000/slc7_amd64_gcc900"
             }, 
-            "flawfinder": "inprogress", 
+            "flawfinder": "found", 
             "next_ib": false, 
             "RVExceptions": null, 
             "igprof": "inprogress", 
@@ -168,7 +177,16 @@
                     "details": {}
                 }
             ], 
-            "invalid_includes": [], 
+            "invalid_includes": [
+                {
+                    "arch": "slc7_amd64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/SDT/jenkins-artifacts/invalid-includes/CMSSW_11_0_X_2019-08-18-0000/slc7_amd64_gcc700/summary.json", 
+                    "details": {
+                        "num_fails": "154"
+                    }
+                }
+            ], 
             "builds": [
                 {
                     "arch": "slc7_amd64_gcc700", 
