@@ -18355,9 +18355,9 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/11.0-fri-23/CMSSW_11_0_X_2019-08-16-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1665, 
+                            "num_passed": 1677, 
                             "known_failed": 43, 
-                            "num_failed": 117
+                            "num_failed": 118
                         }
                     }, 
                     {
@@ -24517,7 +24517,7 @@
                     "slc6_amd64_gcc481": []
                 }, 
                 "cmsdist_compared_tags": {
-                    "slc6_amd64_gcc481": "IB/CMSSW_7_1_X_2019-08-11-0000/slc6_amd64_gcc481..IB/CMSSW_7_1_X_2019-08-18-0000/slc6_amd64_gcc481"
+                    "slc6_amd64_gcc481": "IB/CMSSW_7_1_X_2019-08-18-0000/slc6_amd64_gcc481..IB/CMSSW_7_1_X_2019-08-18-0000/slc6_amd64_gcc481"
                 }, 
                 "cmsdistTags": {
                     "slc6_amd64_gcc481": "IB/CMSSW_7_1_X_2019-08-18-0000/slc6_amd64_gcc481"
@@ -24530,9 +24530,11 @@
                 "utests": [
                     {
                         "arch": "slc6_amd64_gcc481", 
-                        "passed": "unknown", 
-                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc481/www/sun/7.1-sun-00/CMSSW_7_1_X_2019-08-18-0000/new/logAnalysis.pkl']", 
-                        "details": {}
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc481/www/sun/7.1-sun-00/CMSSW_7_1_X_2019-08-18-0000/unitTests-summary.log", 
+                        "details": {
+                            "num_fails": "0"
+                        }
                     }
                 ], 
                 "ib_date": "2019-08-18-0000-0000", 
@@ -24571,15 +24573,9 @@
             {
                 "comp_baseline_state": "ok", 
                 "python3_tests": [], 
-                "tests_archs": [
-                    "slc6_amd64_gcc481"
-                ], 
-                "cmsdist_merged_prs": {
-                    "slc6_amd64_gcc481": []
-                }, 
-                "cmsdist_compared_tags": {
-                    "slc6_amd64_gcc481": "IB/CMSSW_7_1_X_2019-08-11-0000/slc6_amd64_gcc481..IB/CMSSW_7_1_X_2019-08-11-0000/slc6_amd64_gcc481"
-                }, 
+                "tests_archs": [], 
+                "cmsdist_merged_prs": {}, 
+                "cmsdist_compared_tags": {}, 
                 "cmsdistTags": {
                     "slc6_amd64_gcc481": "IB/CMSSW_7_1_X_2019-08-11-0000/slc6_amd64_gcc481"
                 }, 
@@ -24588,30 +24584,9 @@
                 "fwlite": [], 
                 "compared_tags": "CMSSW_7_1_43-->CMSSW_7_1_X_2019-08-11-0000", 
                 "dqm_tests": "inprogress", 
-                "utests": [
-                    {
-                        "arch": "slc6_amd64_gcc481", 
-                        "passed": "passed", 
-                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc481/www/sun/7.1-sun-00/CMSSW_7_1_X_2019-08-11-0000/unitTests-summary.log", 
-                        "details": {
-                            "num_fails": "0"
-                        }
-                    }
-                ], 
+                "utests": [], 
                 "ib_date": "2019-08-11-0000-0000", 
-                "relvals": [
-                    {
-                        "done": true, 
-                        "arch": "slc6_amd64_gcc481", 
-                        "passed": false, 
-                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc481/www/sun/7.1-sun-00/CMSSW_7_1_X_2019-08-11-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
-                        "details": {
-                            "num_passed": 887, 
-                            "known_failed": 0, 
-                            "num_failed": 43
-                        }
-                    }
-                ], 
+                "relvals": [], 
                 "igprof": "not-found", 
                 "release_queue": "CMSSW_7_1_X", 
                 "release_name": "CMSSW_7_1_X_2019-08-11-0000", 
@@ -24621,33 +24596,17 @@
                 "merged_prs": [], 
                 "base_branch": "CMSSW_7_1_X", 
                 "invalid_includes": [], 
-                "builds": [
-                    {
-                        "arch": "slc6_amd64_gcc481", 
-                        "passed": "passed", 
-                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc481/www/sun/7.1-sun-00/CMSSW_7_1_X_2019-08-11-0000/new/logAnalysis.pkl", 
-                        "details": {
-                            "ignoreWarning": 2
-                        }
-                    }
-                ], 
+                "builds": [], 
                 "material_budget_v2": "not-found", 
                 "static_checks_v2": "not-found", 
                 "valgrind": "not-found", 
                 "material_budget": "not-found", 
-                "dupDict": "error", 
+                "dupDict": "passed", 
                 "static_checks_failures": "not-found", 
                 "static_checks": "not-found", 
                 "isIB": true, 
                 "inProgress": false, 
-                "addons": [
-                    {
-                        "arch": "slc6_amd64_gcc481", 
-                        "passed": true, 
-                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc481/www/sun/7.1-sun-00/CMSSW_7_1_X_2019-08-11-0000/addOnTests.log", 
-                        "details": {}
-                    }
-                ], 
+                "addons": [], 
                 "hlt_tests": "found"
             }, 
             {
@@ -27130,7 +27089,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/8.0-sun-00/CMSSW_8_0_X_2019-08-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 3, 
+                            "num_passed": 56, 
                             "known_failed": 0, 
                             "num_failed": 0
                         }
