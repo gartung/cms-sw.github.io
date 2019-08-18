@@ -2263,6 +2263,52 @@
     },
     {
         "exitcode": 0,
+        "id": "115.0",
+        "known_error": 0,
+        "name": "QCD_Pt_50_80+QCD_Pt_50_80+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 27
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 14
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 355
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "116.0",
+        "known_error": 0,
+        "name": "QCD_Pt_80_120+QCD_Pt_80_120_2HS+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 32
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 53
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 369
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "118.0",
         "known_error": 0,
         "name": "QCD_Pt_170_230+QCD_Pt_170_230+DIGI+RECO",
@@ -4971,6 +5017,34 @@
     },
     {
         "exitcode": 0,
+        "id": "136.772",
+        "known_error": 0,
+        "name": "RunJetHT2016H+RunJetHT2016H+HLTDR2_2016+RECODR2_2016reHLT_skimJetHT_Prompt+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 86,
+                "status": "PASSED",
+                "warnings": 203
+            },
+            {
+                "errors": 97,
+                "status": "PASSED",
+                "warnings": 1742
+            },
+            {
+                "errors": 1344,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "136.7721",
         "known_error": 0,
         "name": "RunJetHT2016H_reminiaod+RunJetHT2016H_reminiaod+REMINIAOD_data2016+HARVESTDR2_REMINIAOD_data2016",
@@ -6509,6 +6583,26 @@
                 "errors": 94,
                 "status": "PASSED",
                 "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.827",
+        "known_error": 0,
+        "name": "RunNoBPTX2017E+RunNoBPTX2017E+HLTDR2_2017+RECODR2_2017reHLTAlCaTkCosmics_Prompt+HARVEST2017",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
             }
         ]
     },
@@ -10702,6 +10796,29 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 50
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1303.0",
+        "known_error": 0,
+        "name": "ProdQCD_Pt_3000_3500_13+ProdQCD_Pt_3000_3500_13+DIGIUP15PROD1+RECOPRODUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 19
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 14
             }
         ]
     },
