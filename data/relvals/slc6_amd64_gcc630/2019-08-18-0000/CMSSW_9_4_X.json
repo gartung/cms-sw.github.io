@@ -685,6 +685,34 @@
     },
     {
         "exitcode": 0,
+        "id": "4.43",
+        "known_error": 0,
+        "name": "RunMu2012A+RunMu2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 284
+            },
+            {
+                "errors": 36,
+                "status": "PASSED",
+                "warnings": 3668
+            },
+            {
+                "errors": 71,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.44",
         "known_error": 0,
         "name": "RunElectron2012A+RunElectron2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
@@ -12118,6 +12146,34 @@
                 "errors": 23,
                 "status": "PASSED",
                 "warnings": 2387
+            },
+            {
+                "errors": 35,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25206.0",
+        "known_error": 0,
+        "name": "ZMM_13+ZMM_13INPUT+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 27
+            },
+            {
+                "errors": 22,
+                "status": "PASSED",
+                "warnings": 2142
             },
             {
                 "errors": 35,

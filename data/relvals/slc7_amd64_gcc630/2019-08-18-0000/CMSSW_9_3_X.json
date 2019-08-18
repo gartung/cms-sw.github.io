@@ -2468,6 +2468,34 @@
     },
     {
         "exitcode": 0,
+        "id": "30.0",
+        "known_error": 0,
+        "name": "ZMM+ZMMINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 996
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 2925
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "31.0",
         "known_error": 0,
         "name": "ZTT+ZTTINPUT+DIGI+RECO+HARVEST",
@@ -7220,6 +7248,34 @@
                 "errors": 8,
                 "status": "PASSED",
                 "warnings": 1451
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "202.0",
+        "known_error": 0,
+        "name": "TTbar+TTbarINPUT+DIGIPU1+RECOPU1+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 104
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 2220
             },
             {
                 "errors": 12,
