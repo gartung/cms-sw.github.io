@@ -115,8 +115,8 @@
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/10.2-sun-00/CMSSW_10_2_X_2019-08-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
                             "num_passed": 2085, 
-                            "known_failed": 0, 
-                            "num_failed": 7
+                            "known_failed": 6, 
+                            "num_failed": 1
                         }
                     }
                 ], 
@@ -18395,7 +18395,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc700/www/sun/11.0-sun-00/CMSSW_11_0_X_2019-08-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 428, 
+                            "num_passed": 436, 
                             "known_failed": 0, 
                             "num_failed": 0
                         }
@@ -18406,7 +18406,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc820/www/sun/11.0-sun-00/CMSSW_11_0_X_2019-08-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 2431, 
+                            "num_passed": 2443, 
                             "known_failed": 0, 
                             "num_failed": 0
                         }
@@ -31586,12 +31586,12 @@
                     {
                         "done": false, 
                         "arch": "slc6_amd64_gcc630", 
-                        "passed": false, 
+                        "passed": true, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.4.MAOD-sun-00/CMSSW_9_4_MAOD_X_2019-08-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
                             "num_passed": 1403, 
-                            "known_failed": 0, 
-                            "num_failed": 8
+                            "known_failed": 8, 
+                            "num_failed": 0
                         }
                     }
                 ], 
