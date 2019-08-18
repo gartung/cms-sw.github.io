@@ -340,7 +340,7 @@
 201908161729.53 data/jobreports/slc7_amd64_gcc700/CMSSW_11_0_CXXMODULE_X/2019-08-15-2300.csv
 201908161608.29 data/jobreports/slc7_amd64_gcc700/CMSSW_11_0_GEANT4_X/2019-08-15-2300.csv
 201908161540.09 data/jobreports/slc7_amd64_gcc700/CMSSW_11_0_ROOT618_X/2019-08-15-2300.csv
-201908180427.29 data/jobreports/slc6_amd64_gcc472/CMSSW_5_3_X/2019-08-18-0000.csv
+201908180434.46 data/jobreports/slc6_amd64_gcc472/CMSSW_5_3_X/2019-08-18-0000.csv
 201908150619.44 data/jobreports/slc6_amd64_gcc700/CMSSW_10_2_X/2019-08-14-2300.csv
 201908141821.34 data/jobreports/slc6_amd64_gcc700/CMSSW_10_2_X/2019-08-14-1100.csv
 201908171037.54 data/jobreports/slc6_amd64_gcc700/CMSSW_10_3_X/2019-08-16-2300.csv
