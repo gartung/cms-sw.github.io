@@ -9224,6 +9224,34 @@
     },
     {
         "exitcode": 0,
+        "id": "25213.18",
+        "known_error": 0,
+        "name": "VBFHToBB_M125_Pow_py8_Evt_13UP18+VBFHToBB_M125_Pow_py8_Evt_13UP18+DIGIUP18_PU25+RECOUP18_PU25+HARVESTUP18_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 39
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 102
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1022
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "25214.0",
         "known_error": 0,
         "name": "TTbarLepton_13+TTbarLepton_13INPUT+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
