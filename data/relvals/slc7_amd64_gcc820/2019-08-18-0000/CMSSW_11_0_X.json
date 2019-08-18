@@ -3153,6 +3153,34 @@
     },
     {
         "exitcode": 0,
+        "id": "134.802",
+        "known_error": 0,
+        "name": "RunDoubleEG2015C+RunDoubleEG2015C+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 58
+            },
+            {
+                "errors": 213,
+                "status": "PASSED",
+                "warnings": 1692
+            },
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.804",
         "known_error": 0,
         "name": "RunJetHT2015C+RunJetHT2015C+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
@@ -3311,6 +3339,34 @@
                 "errors": 212,
                 "status": "PASSED",
                 "warnings": 1367
+            },
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.81",
+        "known_error": 0,
+        "name": "RunSingleMu2015C+RunSingleMu2015C+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 48
+            },
+            {
+                "errors": 212,
+                "status": "PASSED",
+                "warnings": 1557
             },
             {
                 "errors": 32,
@@ -17498,6 +17554,34 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 275
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "13992502.0",
+        "known_error": 0,
+        "name": "TTbar_13_HS+TTbar_13_HSINPUT+DIGIUP15_PU25HS+RECOUP15_PU25HS+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 57
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 511
             },
             {
                 "errors": 89,
