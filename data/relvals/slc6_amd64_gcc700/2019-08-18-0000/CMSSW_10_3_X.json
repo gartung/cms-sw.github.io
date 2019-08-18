@@ -1137,6 +1137,39 @@
     },
     {
         "exitcode": 0,
+        "id": "11.0",
+        "known_error": 0,
+        "name": "MinBias+MinBiasINPUT+DIGI+RECOMIN+HARVEST+ALCAMIN",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 57
+            },
+            {
+                "errors": 202,
+                "status": "PASSED",
+                "warnings": 2526
+            },
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 28
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "12.0",
         "known_error": 0,
         "name": "ZpMM+ZpMMINPUT+DIGI+RECO+HARVEST",
@@ -2279,6 +2312,29 @@
                 "errors": 8,
                 "status": "PASSED",
                 "warnings": 26
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "125.0",
+        "known_error": 0,
+        "name": "ZPrime5000Dijet+ZPrime5000Dijet+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 34
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 11
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 106
             }
         ]
     },
