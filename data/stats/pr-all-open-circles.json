@@ -699,11 +699,11 @@
             "gap": true
         }, 
         {
-            "weight": 17, 
+            "weight": 15, 
             "groups": [
                 {
                     "url": "https://github.com/cms-sw/cmssw", 
-                    "weight": 17, 
+                    "weight": 15, 
                     "groups": [
                         {
                             "status_level": "2", 
@@ -835,28 +835,10 @@
                             "status_level": "3", 
                             "urlRepo": "https://github.com/cms-sw/cmssw", 
                             "repository": "cms-sw/cmssw", 
-                            "url": "https://github.com/cms-sw/cmssw/pull/27776", 
-                            "label": "27776", 
-                            "color": "#468847", 
-                            "createdAt": 1565787326
-                        }, 
-                        {
-                            "status_level": "3", 
-                            "urlRepo": "https://github.com/cms-sw/cmssw", 
-                            "repository": "cms-sw/cmssw", 
                             "url": "https://github.com/cms-sw/cmssw/pull/27778", 
                             "label": "27778", 
                             "color": "#468847", 
                             "createdAt": 1565802548
-                        }, 
-                        {
-                            "status_level": "3", 
-                            "urlRepo": "https://github.com/cms-sw/cmssw", 
-                            "repository": "cms-sw/cmssw", 
-                            "url": "https://github.com/cms-sw/cmssw/pull/27789", 
-                            "label": "27789", 
-                            "color": "#468847", 
-                            "createdAt": 1565941208
                         }
                     ], 
                     "label": "cms-sw"
