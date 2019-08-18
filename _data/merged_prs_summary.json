@@ -13747,7 +13747,7 @@
                 "igprof": "not-found", 
                 "base_branch": "CMSSW_11_0_X", 
                 "compared_tags": "CMSSW_11_0_CLANG_X_2019-08-16-2300-->CMSSW_11_0_CLANG_X_2019-08-18-0000", 
-                "dqm_tests": "inprogress", 
+                "dqm_tests": "found", 
                 "utests": [
                     {
                         "arch": "slc7_amd64_gcc700", 
