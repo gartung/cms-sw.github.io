@@ -11,7 +11,7 @@
                 "slc7_amd64_gcc820": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X/gcc700", 
+                "slc7_amd64_gcc700": "Not Found..IB/CMSSW_10_6_X/gcc700", 
                 "slc7_amd64_gcc820": "IB/CMSSW_10_6_X_2019-08-11-2300/slc7_amd64_gcc820..IB/CMSSW_10_6_X/gcc820"
             }, 
             "static_checks_failures": "not-found", 
@@ -66,11 +66,11 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": "not-found", 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -175,7 +175,7 @@
                 "slc7_amd64_gcc820": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700", 
+                "slc7_amd64_gcc700": "Not Found..Not Found", 
                 "slc7_amd64_gcc820": "IB/CMSSW_10_6_X_2019-08-11-2300/slc7_amd64_gcc820..IB/CMSSW_10_6_X_2019-08-11-2300/slc7_amd64_gcc820"
             }, 
             "static_checks_failures": {
@@ -186,7 +186,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700", 
+                "slc7_amd64_gcc700": "Not Found", 
                 "slc7_amd64_gcc820": "IB/CMSSW_10_6_X_2019-08-11-2300/slc7_amd64_gcc820"
             }, 
             "flawfinder": "found", 
@@ -334,11 +334,11 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": "not-found", 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -441,7 +441,7 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": {
                 "status": "found", 
@@ -451,7 +451,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -557,7 +557,7 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": {
                 "status": "found", 
@@ -567,7 +567,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -673,7 +673,7 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": {
                 "status": "found", 
@@ -683,7 +683,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -789,7 +789,7 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": {
                 "status": "found", 
@@ -799,7 +799,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -905,7 +905,7 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": {
                 "status": "found", 
@@ -915,7 +915,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -1021,7 +1021,7 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": {
                 "status": "found", 
@@ -1031,7 +1031,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -1137,7 +1137,7 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": {
                 "status": "found", 
@@ -1147,7 +1147,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -1253,7 +1253,7 @@
                 "slc7_amd64_gcc700": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found..Not Found"
             }, 
             "static_checks_failures": {
                 "status": "found", 
@@ -1263,7 +1263,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
+                "slc7_amd64_gcc700": "Not Found"
             }, 
             "flawfinder": "found", 
             "next_ib": false, 
@@ -1371,7 +1371,7 @@
                 "slc7_amd64_gcc820": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700", 
+                "slc7_amd64_gcc700": "Not Found..Not Found", 
                 "slc7_amd64_gcc820": "IB/CMSSW_10_6_X_2019-08-11-2300/slc7_amd64_gcc820..IB/CMSSW_10_6_X_2019-08-11-2300/slc7_amd64_gcc820"
             }, 
             "static_checks_failures": {
@@ -1382,7 +1382,7 @@
                 ]
             }, 
             "cmsdistTags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700", 
+                "slc7_amd64_gcc700": "Not Found", 
                 "slc7_amd64_gcc820": "IB/CMSSW_10_6_X_2019-08-11-2300/slc7_amd64_gcc820"
             }, 
             "flawfinder": "found", 
@@ -1506,15 +1506,9 @@
         {
             "comp_baseline_state": "ok", 
             "python3_tests": [], 
-            "tests_archs": [
-                "slc7_amd64_gcc700"
-            ], 
-            "cmsdist_merged_prs": {
-                "slc7_amd64_gcc700": []
-            }, 
-            "cmsdist_compared_tags": {
-                "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700..IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
-            }, 
+            "tests_archs": [], 
+            "cmsdist_merged_prs": {}, 
+            "cmsdist_compared_tags": {}, 
             "static_checks_failures": "not-found", 
             "cmsdistTags": {
                 "slc7_amd64_gcc700": "IB/CMSSW_10_6_X_2019-08-11-0000/slc7_amd64_gcc700"
@@ -1522,24 +1516,10 @@
             "flawfinder": "inprogress", 
             "next_ib": false, 
             "RVExceptions": null, 
-            "fwlite": [
-                {
-                    "arch": "slc7_amd64_gcc700", 
-                    "passed": "passed", 
-                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc700/www/sun/10.6-sun-00/CMSSW_10_6_X_2019-08-11-0000/new_FWLITE/logAnalysis.pkl", 
-                    "details": {}
-                }
-            ], 
+            "fwlite": [], 
             "compared_tags": "CMSSW_10_6_2-->CMSSW_10_6_X_2019-08-11-0000", 
             "dqm_tests": "inprogress", 
-            "utests": [
-                {
-                    "arch": "slc7_amd64_gcc700", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc7_amd64_gcc700/www/sun/10.6-sun-00/CMSSW_10_6_X_2019-08-11-0000/new/logAnalysis.pkl']", 
-                    "details": {}
-                }
-            ], 
+            "utests": [], 
             "ib_date": "2019-08-11-0000-0000", 
             "relvals": [], 
             "release_queue": "CMSSW_10_6_X", 
@@ -1550,16 +1530,7 @@
             "merged_prs": [], 
             "base_branch": "CMSSW_10_6_X", 
             "invalid_includes": [], 
-            "builds": [
-                {
-                    "arch": "slc7_amd64_gcc700", 
-                    "passed": "passed", 
-                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc700/www/sun/10.6-sun-00/CMSSW_10_6_X_2019-08-11-0000/new/logAnalysis.pkl", 
-                    "details": {
-                        "ignoreWarning": 221
-                    }
-                }
-            ], 
+            "builds": [], 
             "material_budget_v2": "not-found", 
             "addons": [], 
             "static_checks_v2": "inprogress", 

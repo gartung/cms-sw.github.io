@@ -72,6 +72,10 @@
         }
     }, 
     "CMSSW_9_4_X": {
+        "slc7_amd64_gcc630": {
+            "status": "unknown", 
+            "latest_IB": "CMSSW_9_4_X_2019-08-18-0000"
+        }, 
         "slc6_amd64_gcc630": {
             "status": "unknown", 
             "latest_IB": "CMSSW_9_4_X_2019-08-11-0000"
@@ -107,8 +111,8 @@
     }, 
     "CMSSW_10_6_X": {
         "slc7_amd64_gcc700": {
-            "status": "unknown", 
-            "latest_IB": "CMSSW_10_6_X_2019-08-11-0000"
+            "status": "ok", 
+            "latest_IB": "CMSSW_10_6_X_2019-08-11-2300"
         }, 
         "slc7_amd64_gcc820": {
             "status": "unknown", 
