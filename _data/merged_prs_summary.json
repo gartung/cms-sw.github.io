@@ -115,8 +115,8 @@
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/10.2-sun-00/CMSSW_10_2_X_2019-08-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
                             "num_passed": 1014, 
-                            "known_failed": 0, 
-                            "num_failed": 4
+                            "known_failed": 3, 
+                            "num_failed": 1
                         }
                     }
                 ], 
@@ -18220,7 +18220,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc820/www/sun/11.0-sun-00/CMSSW_11_0_X_2019-08-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 36, 
+                            "num_passed": 48, 
                             "known_failed": 0, 
                             "num_failed": 0
                         }
@@ -18231,7 +18231,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc900/www/sun/11.0-sun-00/CMSSW_11_0_X_2019-08-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 2792, 
+                            "num_passed": 2796, 
                             "known_failed": 0, 
                             "num_failed": 0
                         }
@@ -27366,7 +27366,7 @@
                         "details": {}
                     }
                 ], 
-                "hlt_tests": "inprogress"
+                "hlt_tests": "found"
             }, 
             {
                 "comp_baseline_state": "ok", 
@@ -30983,9 +30983,9 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.3-sun-00/CMSSW_9_3_X_2019-08-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1221, 
-                            "known_failed": 0, 
-                            "num_failed": 11
+                            "num_passed": 1220, 
+                            "known_failed": 6, 
+                            "num_failed": 6
                         }
                     }
                 ], 
