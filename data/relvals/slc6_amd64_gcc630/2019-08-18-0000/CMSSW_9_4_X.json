@@ -2303,6 +2303,34 @@
     },
     {
         "exitcode": 0,
+        "id": "134.703",
+        "known_error": 0,
+        "name": "RunDoubleMuon2015B+RunDoubleMuon2015B+HLTDR2_50ns+RECODR2_50nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 350
+            },
+            {
+                "errors": 237,
+                "status": "PASSED",
+                "warnings": 8445
+            },
+            {
+                "errors": 31,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.706",
         "known_error": 0,
         "name": "RunMuonEG2015B+RunMuonEG2015B+HLTDR2_50ns+RECODR2_50nsreHLT_HIPM+HARVESTDR2",
@@ -2349,6 +2377,34 @@
                 "errors": 237,
                 "status": "PASSED",
                 "warnings": 19306
+            },
+            {
+                "errors": 31,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.806",
+        "known_error": 0,
+        "name": "RunMuonEG2015C+RunMuonEG2015C+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 390
+            },
+            {
+                "errors": 239,
+                "status": "PASSED",
+                "warnings": 10999
             },
             {
                 "errors": 31,
@@ -2949,6 +3005,34 @@
             },
             {
                 "errors": 66,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.734",
+        "known_error": 0,
+        "name": "RunMuOnia2016B+RunMuOnia2016B+HLTDR2_2016+RECODR2_2016reHLT_skimMuOnia_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 454
+            },
+            {
+                "errors": 264,
+                "status": "PASSED",
+                "warnings": 8750
+            },
+            {
+                "errors": 1281,
                 "status": "PASSED",
                 "warnings": 0
             }
@@ -7863,6 +7947,34 @@
     },
     {
         "exitcode": 0,
+        "id": "1363.17",
+        "known_error": 0,
+        "name": "VBFHToBB_M125_Pow_py8_Evt_13UP17+VBFHToBB_M125_Pow_py8_Evt_13UP17+DIGIUP17+RECOUP17+HARVESTUP17",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 83
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 158
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 1390
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1364.0",
         "known_error": 0,
         "name": "BdToMuMu_13+BdToMuMu_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
@@ -9067,6 +9179,72 @@
     },
     {
         "exitcode": 0,
+        "id": "10825.0",
+        "known_error": 0,
+        "name": "ZEE_13+ZEE_13TeV_TuneCUETP8M1_2018_GenSimFull+DigiFull_2018+RecoFull_2018+ALCAFull_2018+HARVESTFull_2018",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 76
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 555
+            },
+            {
+                "errors": 9,
+                "status": "PASSED",
+                "warnings": 1297
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 92
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "10842.0",
+        "known_error": 0,
+        "name": "ZMM_13+ZMM_13TeV_TuneCUETP8M1_2018_GenSimFull+DigiFull_2018+RecoFull_2018+ALCAFull_2018+HARVESTFull_2018",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 70
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 18
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "11623.0",
         "known_error": 0,
         "name": "MinBias_13+MinBias_13TeV_pythia8_TuneCUETP8M1_2019_GenSimFull+DigiFull_2019+RecoFull_2019+ALCAFull_2019+HARVESTFull_2019",
@@ -9339,6 +9517,34 @@
                 "errors": 4,
                 "status": "PASSED",
                 "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25211.17",
+        "known_error": 0,
+        "name": "GluGluHToZZTo4L_M125_Pow_py8_Evt_13UP17+GluGluHToZZTo4L_M125_Pow_py8_Evt_13UP17+DIGIUP17_PU25+RECOUP17_PU25+HARVESTUP17_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 86
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2714
+            },
+            {
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 1316
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
