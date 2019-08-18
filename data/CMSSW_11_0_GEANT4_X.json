@@ -29,6 +29,15 @@
             "material_budget_comparison": "not-found", 
             "merged_prs": [
                 {
+                    "hash": "b15a7af321e6aec06a876611cb19cf40ed77001c", 
+                    "title": "Replace DecodingStructure struct with local unsigned integers", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/27712", 
+                    "number": "27712", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "IzaakWN"
+                }, 
+                {
                     "hash": "350f69f93db90767d06c77e85be7e091b09c565f", 
                     "title": "update configurations for phase2 Inner Tracker ntuple unit tests", 
                     "url": "https://github.com/cms-sw/cmssw/pull/27762", 
@@ -56,13 +65,13 @@
                     "author_login": "ianna"
                 }, 
                 {
-                    "hash": "b15a7af321e6aec06a876611cb19cf40ed77001c", 
-                    "title": "Replace DecodingStructure struct with local unsigned integers", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/27712", 
-                    "number": "27712", 
+                    "hash": "8c9605dc9bc89b68bc631c49bf3ebe3c99f005ec", 
+                    "title": "Geant4 parameters for tracking in field", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/27789", 
+                    "number": "27789", 
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
-                    "author_login": "IzaakWN"
+                    "author_login": "civanch"
                 }, 
                 {
                     "hash": "cd62b15c2358d7d09ea4c6abdf9afe10275423e0", 
@@ -72,6 +81,15 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "felicepantaleo"
+                }, 
+                {
+                    "hash": "9163b265d41792410123519c7cdb3e08bf49100d", 
+                    "title": "Run3-sim43 Expand passive hits to contain PDG Id of track and store this in CaloSteppingAction", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/27776", 
+                    "number": "27776", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bsunanda"
                 }, 
                 {
                     "hash": "5723e616403df0acfb2daa387d0a93f9c3cecaaa", 
