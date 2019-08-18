@@ -104,7 +104,7 @@
             "igprof": "inprogress", 
             "base_branch": "CMSSW_11_0_X", 
             "compared_tags": "CMSSW_11_0_X_2019-08-17-1100-->CMSSW_11_0_X_2019-08-18-0000", 
-            "dqm_tests": "inprogress", 
+            "dqm_tests": "found", 
             "utests": [
                 {
                     "arch": "slc7_amd64_gcc900", 
