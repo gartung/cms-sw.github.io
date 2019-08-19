@@ -2211,6 +2211,34 @@
     },
     {
         "exitcode": 0,
+        "id": "30.0",
+        "known_error": 0,
+        "name": "ZMM+ZMMINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 333
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 214
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "31.0",
         "known_error": 0,
         "name": "ZTT+ZTTINPUT+DIGI+RECO+HARVEST",
@@ -15491,6 +15519,39 @@
     },
     {
         "exitcode": 0,
+        "id": "20634.99",
+        "known_error": 0,
+        "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2026D41PU_GenSimHLBeamSpotFull14INPUT+SingleNuE10_cf_2026D41PU_PremixHLBeamSpotFull14PU_Premix+DigiFullTriggerPUPRMXCombined_2026D41PU+RecoFullGlobalPUPRMX_2026D41PU+HARVESTFullGlobalPU_2026D41PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 23
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 78
+            },
+            {
+                "errors": 64,
+                "status": "PASSED",
+                "warnings": 555
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 11
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "20661.97",
         "known_error": 0,
         "name": "NuGun+SingleNuE10_cf_2026D41PU_PremixHLBeamSpotFullPU_Premix",
@@ -15746,6 +15807,34 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 487
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25209.0",
+        "known_error": 0,
+        "name": "QCD_FlatPt_15_3000HS_13+QCD_FlatPt_15_3000HS_13INPUT+DIGIUP15_PU25+RECOUP15_PU25+HARVESTUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 44
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 417
             },
             {
                 "errors": 89,
