@@ -111,7 +111,7 @@
 201908151256.15 data/relvals/slc7_ppc64le_gcc700/2019-08-14-2300/CMSSW_11_0_X.json
 201908171255.41 data/relvals/slc7_ppc64le_gcc700/2019-08-16-2300/CMSSW_11_0_X.json
 201908141442.35 data/relvals/slc7_ppc64le_gcc700/2019-08-13-2300/CMSSW_11_0_X.json
-201908191246.51 data/relvals/slc7_ppc64le_gcc700/2019-08-18-2300/CMSSW_11_0_X.json
+201908191308.59 data/relvals/slc7_ppc64le_gcc700/2019-08-18-2300/CMSSW_11_0_X.json
 201908131324.05 data/relvals/slc7_ppc64le_gcc700/2019-08-12-2300/CMSSW_11_0_X.json
 201908161617.01 data/relvals/slc7_ppc64le_gcc700/2019-08-15-2300/CMSSW_11_0_X.json
 201908170659.26 data/unitTests/slc7_amd64_gcc900/2019-08-16-2300/CMSSW_11_0_X.json
