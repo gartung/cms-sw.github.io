@@ -1561,6 +1561,34 @@
     },
     {
         "exitcode": 0,
+        "id": "134.706",
+        "known_error": 0,
+        "name": "RunMuonEG2015B+RunMuonEG2015B+HLTDR2_50ns+RECODR2_50nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 73
+            },
+            {
+                "errors": 213,
+                "status": "PASSED",
+                "warnings": 3085
+            },
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "134.806",
         "known_error": 0,
         "name": "RunMuonEG2015C+RunMuonEG2015C+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
@@ -3210,6 +3238,34 @@
     },
     {
         "exitcode": 0,
+        "id": "136.849",
+        "known_error": 0,
+        "name": "RunHLTPhy2018A+RunHLTPhy2018A+HLTDR2_2018+RECODR2_2018reHLT_Offline+HARVEST2018",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 200
+            },
+            {
+                "errors": 210,
+                "status": "PASSED",
+                "warnings": 3153
+            },
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "136.8501",
         "known_error": 0,
         "name": "RunEGamma2018A+RunEGamma2018A+HLTDR2_2018+RECODR2_2018reHLT_skimParkingBPH_Offline+HARVEST2018",
@@ -4160,6 +4216,34 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 5
+            },
+            {
+                "errors": 1346,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "158.3",
+        "known_error": 0,
+        "name": "ZEEMM_13_HI+ZEEMM_13_HIINPUT+DIGIHI2018PPRECO+RECOHI2018PPRECO+HARVESTHI2018PPRECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 7
             },
             {
                 "errors": 1346,
