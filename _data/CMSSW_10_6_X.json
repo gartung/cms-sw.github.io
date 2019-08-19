@@ -94,7 +94,19 @@
                 }
             ], 
             "ib_date": "2019-08-19-1100-0000", 
-            "relvals": [], 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc7_amd64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc700/www/mon/10.6-mon-11/CMSSW_10_6_X_2019-08-19-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 96, 
+                        "known_failed": 0, 
+                        "num_failed": 0
+                    }
+                }
+            ], 
             "release_queue": "CMSSW_10_6_X", 
             "release_name": "CMSSW_10_6_X_2019-08-19-1100", 
             "comp_baseline": "inprogress", 
@@ -128,7 +140,7 @@
             "static_checks": "inprogress", 
             "isIB": true, 
             "inProgress": false, 
-            "igprof": "inprogress", 
+            "igprof": "found", 
             "hlt_tests": "inprogress"
         }, 
         {
@@ -210,7 +222,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc820/www/sun/10.6-sun-23/CMSSW_10_6_X_2019-08-18-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 2468, 
+                        "num_passed": 2609, 
                         "known_failed": 0, 
                         "num_failed": 0
                     }
