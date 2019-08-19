@@ -2107,6 +2107,19 @@
     },
     {
         "exitcode": 23040,
+        "id": "2018.12",
+        "known_error": 0,
+        "name": "QCD_Pt_80_120_13_UP18+QCD_Pt_80_120FS_13_UP18+HARVESTUP18FS+MINIAODMCUP18FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "FAILED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 23040,
         "id": "2018.13",
         "known_error": 0,
         "name": "TTbar_13_UP18+TTbarFS_13_trackingOnlyValidation_UP18+HARVESTUP18FS_trackingOnly",
