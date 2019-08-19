@@ -50,7 +50,7 @@
         }, 
         "slc7_amd64_gcc820": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_11_0_X_2019-08-11-2300"
+            "latest_IB": "CMSSW_11_0_X_2019-08-12-2300"
         }, 
         "slc7_ppc64le_gcc700": {
             "status": "unknown", 
@@ -58,7 +58,7 @@
         }, 
         "slc7_amd64_gcc900": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_11_0_X_2019-08-11-2300"
+            "latest_IB": "CMSSW_11_0_X_2019-08-12-2300"
         }, 
         "slc7_aarch64_gcc700": {
             "status": "unknown", 
