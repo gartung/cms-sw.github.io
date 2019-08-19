@@ -523,6 +523,34 @@
     },
     {
         "exitcode": 0,
+        "id": "4.51",
+        "known_error": 0,
+        "name": "RunMinBias2012B+RunMinBias2012B+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 92
+            },
+            {
+                "errors": 29,
+                "status": "PASSED",
+                "warnings": 1096
+            },
+            {
+                "errors": 88,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.52",
         "known_error": 0,
         "name": "RunMu2012B+RunMu2012B+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
@@ -597,6 +625,34 @@
                 "errors": 12,
                 "status": "PASSED",
                 "warnings": 2626
+            },
+            {
+                "errors": 88,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.55",
+        "known_error": 0,
+        "name": "RunJet2012B+RunJet2012B+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 98
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 1613
             },
             {
                 "errors": 88,
@@ -704,6 +760,34 @@
                 "errors": 25,
                 "status": "PASSED",
                 "warnings": 1854
+            },
+            {
+                "errors": 88,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.62",
+        "known_error": 0,
+        "name": "RunMu2012C+RunMu2012C+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 101
+            },
+            {
+                "errors": 13,
+                "status": "PASSED",
+                "warnings": 722
             },
             {
                 "errors": 88,
@@ -872,6 +956,90 @@
                 "errors": 12,
                 "status": "PASSED",
                 "warnings": 1302
+            },
+            {
+                "errors": 88,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.73",
+        "known_error": 0,
+        "name": "RunPhoton2012D+RunPhoton2012D+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 71
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 1990
+            },
+            {
+                "errors": 88,
+                "status": "PASSED",
+                "warnings": 6
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.74",
+        "known_error": 0,
+        "name": "RunEl2012D+RunEl2012D+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 71
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 1916
+            },
+            {
+                "errors": 88,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.75",
+        "known_error": 0,
+        "name": "RunJet2012D+RunJet2012D+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 81
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 1171
             },
             {
                 "errors": 88,
@@ -2020,6 +2188,34 @@
     },
     {
         "exitcode": 0,
+        "id": "35.0",
+        "known_error": 0,
+        "name": "Wjet_Pt_80_120+Wjet_Pt_80_120INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 367
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 814
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "36.0",
         "known_error": 0,
         "name": "Wjet_Pt_3000_3500+Wjet_Pt_3000_3500INPUT+DIGI+RECO+HARVEST",
@@ -2071,6 +2267,34 @@
                 "errors": 89,
                 "status": "PASSED",
                 "warnings": 6
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "43.0",
+        "known_error": 0,
+        "name": "ZpMM_2250_8TeV+ZpMM_2250_8TeVINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 384
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 887
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
             }
         ]
     },
@@ -11538,6 +11762,34 @@
     },
     {
         "exitcode": 0,
+        "id": "1310.0",
+        "known_error": 0,
+        "name": "ADDMonoJet_d3MD3_13+ADDMonoJet_d3MD3_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 36
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 159
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1311.0",
         "known_error": 0,
         "name": "MinBias_13+MinBias_13INPUT+DIGIUP15+RECOMINUP15+HARVESTMINUP15+ALCAMINUP15",
@@ -12506,6 +12758,34 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 513
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1348.0",
+        "known_error": 0,
+        "name": "EtaBToJpsiJpsi_13+EtaBToJpsiJpsi_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 46
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 521
             },
             {
                 "errors": 89,
