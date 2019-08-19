@@ -136,6 +136,34 @@
     },
     {
         "exitcode": 0,
+        "id": "4.23",
+        "known_error": 0,
+        "name": "ValSkim2011A+ValSkim2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 121
+            },
+            {
+                "errors": 11,
+                "status": "PASSED",
+                "warnings": 3316
+            },
+            {
+                "errors": 88,
+                "status": "PASSED",
+                "warnings": 24
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.25",
         "known_error": 0,
         "name": "WElSkim2011A+WElSkim2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
@@ -6607,6 +6635,34 @@
             },
             {
                 "errors": 88,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.788",
+        "known_error": 0,
+        "name": "RunSinglePh2017B+RunSinglePh2017B+HLTDR2_2017+RECODR2_2017reHLT_skimSinglePh_Prompt+HARVEST2017",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 92
+            },
+            {
+                "errors": 14,
+                "status": "PASSED",
+                "warnings": 1574
+            },
+            {
+                "errors": 94,
                 "status": "PASSED",
                 "warnings": 4
             }
@@ -14717,6 +14773,29 @@
     },
     {
         "exitcode": 0,
+        "id": "4006.0",
+        "known_error": 0,
+        "name": "SingleElectronFlatPt1To100+SingleElectronFlatPt1To100+DIGIPU1+RECOPU1",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 10
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 41
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 372
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4007.0",
         "known_error": 0,
         "name": "QCD_Pt_30_80_BCtoE_8TeV+QCD_Pt_30_80_BCtoE_8TeV+DIGIPU1+RECOPUDBG",
@@ -17598,6 +17677,34 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 3
+            },
+            {
+                "errors": 89,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25213.17",
+        "known_error": 0,
+        "name": "VBFHToBB_M125_Pow_py8_Evt_13UP17+VBFHToBB_M125_Pow_py8_Evt_13UP17+DIGIUP17_PU25+RECOUP17_PU25+HARVESTUP17_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 8
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 63
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 480
             },
             {
                 "errors": 89,

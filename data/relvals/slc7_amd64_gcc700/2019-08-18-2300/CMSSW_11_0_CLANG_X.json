@@ -6053,6 +6053,39 @@
     },
     {
         "exitcode": 0,
+        "id": "11846.0",
+        "known_error": 0,
+        "name": "ZEE_14+ZEE_14TeV_TuneCUETP8M1_2021PU_GenSimFullINPUT+DigiFullPU_2021PU+RecoFullPU_2021PU+HARVESTFullPU_2021PU+NanoFull_2021PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 232
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 554
+            },
+            {
+                "errors": 27,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 53
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "12434.0",
         "known_error": 0,
         "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2023_GenSimFullINPUT+DigiFull_2023+RecoFull_2023+HARVESTFull_2023+ALCAFull_2023",
@@ -6081,6 +6114,39 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 19
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12634.0",
+        "known_error": 0,
+        "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2023PU_GenSimFullINPUT+DigiFullPU_2023PU+RecoFullPU_2023PU+HARVESTFullPU_2023PU+NanoFull_2023PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 48
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 523
+            },
+            {
+                "errors": 27,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 94
             }
         ]
     },
