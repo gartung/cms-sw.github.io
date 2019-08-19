@@ -1,6 +1,39 @@
 [
     {
         "exitcode": 0,
+        "id": "4.22",
+        "known_error": 0,
+        "name": "RunCosmics2011A+RunCosmics2011A+RECOCOSD+ALCACOSD+SKIMCOSD+HARVESTDC",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 907
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 18
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 31
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "7.0",
         "known_error": 0,
         "name": "Cosmics+Cosmics+DIGICOS+RECOCOS+ALCACOS+HARVESTCOS",
@@ -116,6 +149,34 @@
     },
     {
         "exitcode": 0,
+        "id": "134.813",
+        "known_error": 0,
+        "name": "RunCosmics2015C+RunCosmics2015C+RECOCOSDRUN2+ALCACOSDRUN2+HARVESTDCRUN2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 106,
+                "status": "PASSED",
+                "warnings": 784
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 18
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "135.8",
         "known_error": 0,
         "name": "MinBiasFS_13_ForMixing+MinBiasFS_13_ForMixing",
@@ -124,6 +185,57 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 26
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.733",
+        "known_error": 0,
+        "name": "RunCosmics2016B+RunCosmics2016B+RECOCOSDRUN2+ALCACOSDRUN2+HARVESTDCRUN2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 2018
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 16
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "136.7722",
+        "known_error": 0,
+        "name": "RunJetHT2016H_nano+RunJetHT2016H_nano+NANOEDM2016_80X+HARVESTNANOAOD2016_80X",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 107
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -193,6 +305,34 @@
                 "errors": 30,
                 "status": "PASSED",
                 "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "138.1",
+        "known_error": 0,
+        "name": "RunCosmics2019+RunCosmics2019+RECOCOSDRUN3+ALCACOSDRUN3+HARVESTDCRUN3",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 100,
+                "status": "PASSED",
+                "warnings": 729
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -598,6 +738,34 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 21
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "10024.3",
+        "known_error": 0,
+        "name": "TTbar_13+TTbar_13TeV_TuneCUETP8M1_2017_GenSimFullINPUT+DigiFull_2017+RecoFull_trackingOnlyRun2_2017+HARVESTFull_trackingOnlyRun2_2017",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 83
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 73
+            },
+            {
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 10
             }
         ]
     },
