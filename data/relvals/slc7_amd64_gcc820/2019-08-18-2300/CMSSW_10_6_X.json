@@ -327,6 +327,34 @@
     },
     {
         "exitcode": 0,
+        "id": "136.858",
+        "known_error": 0,
+        "name": "RunNoBPTX2018A+RunNoBPTX2018A+HLTDR2_2018+RECODR2_2018reHLTAlCaTkCosmics_Offline+HARVEST2018",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 509
+            },
+            {
+                "errors": 18,
+                "status": "PASSED",
+                "warnings": 1950
+            },
+            {
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "511.0",
         "known_error": 0,
         "name": "QCD_Pt-30_13TeV_aMCatNLO_herwig7+QCD_Pt-30_13TeV_aMCatNLO_herwig7+HARVESTGEN",
