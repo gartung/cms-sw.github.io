@@ -16475,6 +16475,72 @@
     },
     {
         "exitcode": 0,
+        "id": "11834.0",
+        "known_error": 0,
+        "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2021PU_GenSimFullINPUT+DigiFullPU_2021PU+RecoFullPU_2021PU+HARVESTFullPU_2021PU+NanoFull_2021PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 453
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1357
+            },
+            {
+                "errors": 27,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 294
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "11846.0",
+        "known_error": 0,
+        "name": "ZEE_14+ZEE_14TeV_TuneCUETP8M1_2021PU_GenSimFullINPUT+DigiFullPU_2021PU+RecoFullPU_2021PU+HARVESTFullPU_2021PU+NanoFull_2021PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1635
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1914
+            },
+            {
+                "errors": 27,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 30
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "12024.0",
         "known_error": 0,
         "name": "TTbar_13+TTbar_13TeV_TuneCUETP8M1_2021Design_GenSimFullINPUT+DigiFull_2021Design+RecoFull_2021Design+HARVESTFull_2021Design",
@@ -16536,6 +16602,39 @@
     },
     {
         "exitcode": 0,
+        "id": "12634.0",
+        "known_error": 0,
+        "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2023PU_GenSimFullINPUT+DigiFullPU_2023PU+RecoFullPU_2023PU+HARVESTFullPU_2023PU+NanoFull_2023PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 544
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1364
+            },
+            {
+                "errors": 27,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 253
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "12834.0",
         "known_error": 0,
         "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2024_GenSimFullINPUT+DigiFull_2024+RecoFull_2024+HARVESTFull_2024+ALCAFull_2024",
@@ -16564,6 +16663,39 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "13034.0",
+        "known_error": 0,
+        "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2024PU_GenSimFullINPUT+DigiFullPU_2024PU+RecoFullPU_2024PU+HARVESTFullPU_2024PU+NanoFull_2024PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1276
+            },
+            {
+                "errors": 24769,
+                "status": "PASSED",
+                "warnings": 1636
+            },
+            {
+                "errors": 27,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 281
             }
         ]
     },
